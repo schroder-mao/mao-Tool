@@ -134,7 +134,7 @@
 - [Osintctf](https://osintctf.com) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
 - [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
-- [MaltegoTelegramScraper]https://github.com/Ost4r4/MaltegoTelegramScraper : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.
+- [MaltegoTelegramScraper](https://github.com/Ost4r4/MaltegoTelegramScraper) : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.
 
 ## Recherche et d'Analyse sur le Dark Web
 

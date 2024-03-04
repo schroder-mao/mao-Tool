@@ -113,7 +113,7 @@
 - [Darkstat](https://unix4lyfe.org/darkstat) : Un outil de surveillance de réseau.
 - [Chaosreader](http://chaosreader.sourceforge.net) : Un outil pour extraire les données des fichiers de capture réseau.
 
-## Outils D'OSINT
+## Analyse et de Collecte d'Informations OSINT
 - [SpiderFoot](https://www.spiderfoot.net) : Un outil de collecte d'informations et d'analyse.
 - [Maltego](https://www.maltego.com) : Un outil d'exploration de données et de visualisation.
 - [theHarvester](https://github.com/laramies/theHarvester) : Un outil pour la collecte d'informations sur les courriels, les noms de domaine, les sous-domaines, etc.
@@ -129,7 +129,7 @@
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
 - [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
 
-## Outils de Recherche et d'Analyse sur le Dark Web
+## Recherche et d'Analyse sur le Dark Web
 
 - [DarkSearch](https://darksearch.io) : Un moteur de recherche pour le dark web.
 - [Ahmia](https://ahmia.fi) : Un moteur de recherche pour le dark web.
@@ -137,7 +137,7 @@
 - [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
 - [NotEvil](https://notevil.xyz) : Un moteur de recherche pour le dark web.
 
-## Outils de Recherche d'Adresses E-mail
+## Recherche d'Adresses E-mail
 
 - [Snov.io](https://snov.io) : Un outil pour la recherche d'adresses e-mail.
 - [Emailrep.io](https://emailrep.io) : Un service pour la recherche d'adresses e-mail.
@@ -145,7 +145,7 @@
 - [Email Permutator+](https://metricsparrow.com/toolkit/email-permutator/) : Un outil pour générer des combinaisons d'adresses e-mail.
 - [Skrapp](https://www.skrapp.io) : Un outil pour la recherche d'adresses e-mail.
 
-## Outils de Reconnaissance Faciale
+## Reconnaissance Faciale
 
 - [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.
 - [Cognalys](https://www.cognalys.com) : Un service pour la reconnaissance faciale.
@@ -156,7 +156,7 @@
 - [Face++](https://www.faceplusplus.com) : Un service pour la reconnaissance faciale.
 - [DeepFace](https://research.fb.com/projects/deepface/) : Un service pour la reconnaissance faciale.
 
-## Outils de Reconnaissance de Plaques d'Immatriculation
+## Reconnaissance de Plaques d'Immatriculation
 
 - [OpenALPR](https://www.openalpr.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 - [Plate Recognizer](https://platerecognizer.com) : Un service pour la reconnaissance de plaques d'immatriculation.
@@ -164,7 +164,7 @@
 - [Vaxtor](https://www.vaxtor.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 - [DRIVER's GATE](https://www.driversgate.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 
-## Outils de Reconnaissance Optique de Caractères (OCR)
+## Reconnaissance Optique de Caractères (OCR)
 
 - [OCR.space](https://ocr.space) : Un service pour la reconnaissance optique de caractères.
 - [ABBYY FineReader](https://www.abbyy.com/en-us/finereader/) : Un service pour la reconnaissance optique de caractères.
@@ -180,7 +180,7 @@
 
 - [Ozint](https://ozint.com) : Un site proposant des défis d'OSINT pour tester et développer ses compétences.
 
-## Plateformes de Fuites de Données
+## Fuites de Données
 
 - [LeaksLeaks](https://leaks.fyi) : Une plateforme pour les fuites de données.
 - [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) : Une plateforme pour les fuites de données.

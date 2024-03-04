@@ -1,0 +1,278 @@
+## Recherche d'Informations Générales
+- [Google](https://www.google.com) : Le moteur de recherche le plus utilisé au monde.
+- [Bing](https://www.bing.com) : Un moteur de recherche de Microsoft.
+- [DuckDuckGo](https://duckduckgo.com) : Un moteur de recherche qui se concentre sur la confidentialité de l'utilisateur.
+- [Yahoo](https://www.yahoo.com) : Un portail web offrant un moteur de recherche, des actualités et d'autres services.
+- [Yandex](https://www.yandex.com) : Un moteur de recherche russe.
+- [StartPage](https://www.startpage.com) : Un moteur de recherche qui offre des résultats anonymisés via Google.
+- [Qwant](https://www.qwant.com) : Un moteur de recherche européen axé sur la protection de la vie privée.
+- [Ecosia](https://www.ecosia.org) : Un moteur de recherche qui plante des arbres avec ses revenus publicitaires.
+- [Baidu](https://www.baidu.com) : Un moteur de recherche chinois.
+- [Ask](https://www.ask.com) : Un moteur de recherche qui répond aux questions.
+- [Dogpile](https://www.dogpile.com) : Un méta-moteur de recherche qui agrège les résultats de plusieurs moteurs de recherche.
+- [Gibiru](https://www.gibiru.com) : Un moteur de recherche qui se concentre sur la confidentialité.
+- [Search Encrypt](https://www.searchencrypt.com) : Un moteur de recherche qui chiffre les requêtes de recherche.
+- [Mojeek](https://www.mojeek.com) : Un moteur de recherche britannique indépendant.
+- [Gigablast](https://www.gigablast.com) : Un moteur de recherche indépendant.
+- [WolframAlpha](https://www.wolframalpha.com) : Un moteur de recherche de connaissances.
+- [Swisscows](https://www.swisscows.com) : Un moteur de recherche suisse axé sur la confidentialité.
+
+## Recherche de Usernames
+- [Sherlock](https://github.com/sherlock-project/sherlock) : Un outil pour rechercher les noms d'utilisateur à travers différents services en ligne.
+- [Namechk](https://namechk.com) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur plusieurs plateformes en ligne.
+- [Knowem](https://knowem.com) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur les réseaux sociaux et les domaines.
+- [Pipl](https://pipl.com) : Un moteur de recherche spécialisé dans la recherche de personnes, y compris les noms d'utilisateur.
+- [Usersearch.org](https://usersearch.org) : Un moteur de recherche de profils en ligne à partir d'un nom d'utilisateur.
+- [WhatsMyName](https://whatsmyname.app/) : Un outil pour rechercher des utilisateurs sur de nombreuses plateformes en ligne.
+- [Blackbird OSINT](https://blackbird-osint.herokuapp.com/) : Un outil pour rechercher des noms d'utilisateur sur plusieurs plateformes en ligne.
+
+## Réseaux Sociaux
+- [Facebook](https://www.facebook.com) : Le plus grand réseau social au monde.
+- [Twitter](https://twitter.com) : Un réseau social de microblogage.
+- [Instagram](https://www.instagram.com) : Une plateforme de partage de photos et de vidéos.
+- [LinkedIn](https://www.linkedin.com) : Un réseau social professionnel.
+- [Reddit](https://www.reddit.com) : Une plateforme de discussion en ligne.
+- [Pinterest](https://www.pinterest.com) : Un moteur de découverte visuelle.
+- [Snapchat](https://www.snapchat.com) : Une application de messagerie éphémère.
+- [TikTok](https://www.tiktok.com) : Une plateforme de partage de vidéos courtes.
+- [WhatsApp](https://www.whatsapp.com) : Une application de messagerie instantanée.
+- [Telegram](https://telegram.org) : Une application de messagerie sécurisée.
+- [VKontakte (VK)](https://vk.com) : Un réseau social russe.
+- [Line](https://line.me) : Une application de messagerie et de médias sociaux japonaise.
+- [KakaoTalk](https://www.kakaocorp.com/service/KakaoTalk) : Une application de messagerie coréenne.
+
+## Moteurs de Recherche Avancés
+- [Shodan](https://www.shodan.io) : Un moteur de recherche pour les dispositifs connectés à Internet.
+- [Censys](https://censys.io) : Un moteur de recherche pour les dispositifs réseau et les certificats SSL.
+- [ZoomEye](https://www.zoomeye.org) : Un moteur de recherche pour les dispositifs connectés à Internet.
+- [Fofa](https://fofa.so) : Un moteur de recherche pour les dispositifs connectés à Internet.
+- [BinaryEdge](https://www.binaryedge.io) : Un moteur de recherche pour les dispositifs connectés à Internet.
+- [PublicWWW](https://publicwww.com) : Un moteur de recherche pour le code source des pages web.
+- [Spyse](https://spyse.com) : Un moteur de recherche pour les ressources Internet.
+- [Onyphe](https://www.onyphe.io) : Un moteur de recherche pour les données sur les menaces.
+- [Circl](https://www.circl.lu) : Un moteur de recherche pour les données sur les menaces.
+- [Hunchly](https://hunch.ly) : Un outil de capture et d'archivage de pages web.
+- [Recon-ng](https://github.com/recon-ng/recon-ng) : Un framework pour la reconnaissance réseau.
+- [Pastebin](https://pastebin.com) : Un site web permettant de partager du texte en ligne de manière anonyme.
+- [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
+
+## Analyse d'Images
+- [TinEye](https://tineye.com) : Un moteur de recherche inversée d'images.
+- [Google Images](https://www.google.com/imghp) : Un moteur de recherche d'images de Google.
+- [Reverse Image Search](https://reverse.photos) : Un moteur de recherche inversée d'images.
+- [Berify](https://berify.com) : Un moteur de recherche inversée d'images.
+- [Pictriev](https://www.pictriev.com) : Un outil d'analyse d'images.
+- [Yandex Images](https://yandex.com/images) : Un moteur de recherche d'images de Yandex.
+- [Bing Images](https://www.bing.com/images) : Un moteur de recherche d'images de Bing.
+- [ImgOps](https://imgops.com) : Un outil pour l'analyse d'images.
+- [PimEyes](https://pimeyes.com) : Un moteur de recherche inversée d'images.
+- [Multi-Engine Reverse Image Search](https://www.multi-imageresearch.com) : Un moteur de recherche inversée d'images.
+- [GazoPa](https://www.gazopa.com) : Un moteur de recherche d'images.
+- [Karmadecay](https://karmadecay.com) : Un moteur de recherche d'images pour Reddit.
+- [Sensity AI](https://www.sensity.ai) : Un outil de surveillance de vidéos en ligne.
+- [CAMEO](https://www.cameo.com) : Un moteur de recherche pour des vidéos en ligne.
+
+## Analyse de Données Géographiques
+- [Google Maps](https://www.google.com/maps) : Un service de cartographie et de navigation de Google.
+- [OpenStreetMap](https://www.openstreetmap.org) : Un projet de cartographie collaborative.
+- [GeoNames](https://www.geonames.org) : Une base de données géographique contenant des noms de lieux du monde entier.
+- [Mapillary](https://www.mapillary.com) : Un service de cartographie basé sur les images.
+- [Here Maps](https://www.here.com) : Un service de cartographie et de localisation.
+- [Wikimapia](https://www.wikimapia.org) : Un projet de cartographie collaborative.
+- [Bing Maps](https://www.bing.com/maps) : Un service de cartographie de Microsoft.
+- [MapQuest](https://www.mapquest.com) : Un service de cartographie et de navigation.
+- [TomTom](https://www.tomtom.com) : Un fournisseur de services de cartographie et de navigation.
+- [Mapbox](https://www.mapbox.com) : Une plateforme de cartographie.
+- [Baidu Maps](https://map.baidu.com) : Un service de cartographie de Baidu.
+- [Mapfig](https://mapfig.com) : Un service de cartographie en ligne.
+- [Geocod.io](https://www.geocod.io) : Un service de géocodage en ligne.
+- [Carmen](https://github.com/atduskgreg/carmen) : Un outil de géocodage.
+- [Pelias](https://pelias.io) : Un service de géocodage en ligne.
+
+## Analyse de Fichiers
+- [VirusTotal](https://www.virustotal.com) : Un service qui analyse les fichiers suspects et les URL.
+- [Hybrid Analysis](https://www.hybrid-analysis.com) : Un service qui analyse les fichiers suspects et les URL.
+- [Metadefender](https://metadefender.opswat.com) : Un service qui analyse les fichiers et les URL.
+- [MalShare](https://malshare.com) : Une communauté de partage de malwares.
+- [ANY.RUN](https://any.run) : Un service qui exécute les fichiers dans un environnement virtuel.
+- [Joe Sandbox](https://www.joesandbox.com) : Une solution de sandboxing automatisée.
+- [Malwr](https://malwr.com) : Un service d'analyse de malwares.
+- [CAPE Sandbox](https://cape.contextis.com) : Une sandbox d'analyse de malwares.
+- [Koodous](https://koodous.com) : Une communauté de partage de malwares.
+- [Intezer Analyze](https://analyze.intezer.com) : Un service d'analyse de malwares basé sur la génomique.
+- [URLVoid](https://www.urlvoid.com) : Un service qui analyse les URL.
+- [Joe Sandbox Cloud](https://cloud.joesecurity.org) : Une solution de sandboxing automatisée.
+- [ThreatCrowd](https://www.threatcrowd.org) : Un service qui agrège des données sur les menaces en ligne.
+- [PDF Examiner](https://www.pdfexaminer.com) : Un outil d'analyse de PDF.
+- [Analyze Office](https://analyze.office.com) : Un service d'analyse de fichiers Microsoft Office.
+
+## Analyse de Réseau
+- [Wireshark](https://www.wireshark.org) : Un outil d'analyse de paquets réseau.
+- [Nmap](https://nmap.org) : Un scanner de ports et un outil de détection de vulnérabilités.
+- [Netcat](https://netcat.sourceforge.net) : Un utilitaire de réseau pour lire et écrire des données sur des connexions réseau.
+- [Tcpdump](https://www.tcpdump.org) : Un outil de capture de paquets réseau.
+- [Ettercap](https://www.ettercap-project.org) : Un outil de surveillance de réseau.
+- [Hping](https://github.com/antirez/hping) : Un outil de test de réseau.
+- [Ngrep](https://ngrep.org) : Un outil de recherche de texte dans des paquets réseau.
+- [ZMap](https://zmap.io) : Un scanner de réseau rapide.
+- [Socat](http://www.dest-unreach.org/socat) : Un outil multipurpose pour les connexions réseau.
+- [Snort](https://www.snort.org) : Un système de détection d'intrusion réseau.
+- [Suricata](https://suricata-ids.org) : Un système de détection d'intrusion réseau open source.
+- [Bro](https://www.bro.org) : Un outil d'analyse de réseau.
+- [Moloch](https://molo.ch) : Un outil de capture de paquets réseau.
+- [Darkstat](https://unix4lyfe.org/darkstat) : Un outil de surveillance de réseau.
+- [Chaosreader](http://chaosreader.sourceforge.net) : Un outil pour extraire les données des fichiers de capture réseau.
+
+## Outils Divers
+- [SpiderFoot](https://www.spiderfoot.net) : Un outil de collecte d'informations et d'analyse.
+- [Maltego](https://www.maltego.com) : Un outil d'exploration de données et de visualisation.
+- [theHarvester](https://github.com/laramies/theHarvester) : Un outil pour la collecte d'informations sur les courriels, les noms de domaine, les sous-domaines, etc.
+- [Creepy](https://github.com/ilektrojohn/creepy) : Un outil de géolocalisation basé sur les réseaux sociaux.
+- [Social Mapper](https://github.com/SpiderLabs/social_mapper) : Un outil d'identification et de géolocalisation des personnes à partir de leur nom et de leur photo de profil.
+- [StalkScan](https://stalkscan.com) : Un outil pour explorer les informations publiques d'un compte Facebook.
+- [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak) : Un outil pour l'extraction d'informations sur Twitter.
+- [OSINT Framework](https://osintframework.com) : Un framework d'OSINT qui répertorie de nombreux outils et ressources.
+- [IntelTechniques](https://inteltechniques.com) : Le site Web du spécialiste en OSINT Michael Bazzell, proposant des ressources et des outils.
+- [Ozint](https://ozint.eu) : Un site proposant des défis d'OSINT pour tester et développer ses compétences.
+- [OSINT Combine](https://osintcombine.com) : Un outil pour combiner et analyser des données OSINT provenant de différentes sources.
+- [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
+- [Bellingcat](https://www.bellingcat.com) : Un site web de journalisme d'investigation basé sur l'OSINT.
+- [OSINT Framework](https://osintframework.com) : Un framework d'OSINT qui répertorie de nombreux outils et ressources.
+- [Osintfr](https://www.osintfr.com) : Une plateforme francophone d'OSINT proposant des articles et des outils.
+- [EpiOS](https://epios.org) : Un moteur de recherche d'adresses e-mail liées à des fuites de données.
+- [IntelTechniques](https://inteltechniques.com) : Le site Web du spécialiste en OSINT Michael Bazzell, proposant des ressources et des outils.
+- [Have I Been Pwned](https://haveibeenpwned.com) : Un service pour vérifier si une adresse e-mail a été compromise dans une faille de sécurité.
+- [Have I Been Sold](https://haveibeensold.app) : Un service pour vérifier si une adresse e-mail a été vendue à des tiers.
+- [Osint.link](https://osint.link) : Une collection d'outils et de liens utiles pour l'OSINT.
+- [Basetools](https://www.basetools.sk) : Une plateforme proposant des outils pour l'OSINT et le hacking.
+- [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
+- [Hunchly](https://hunch.ly) : Un outil de capture et d'archivage de pages web.
+- [Osintctf](https://github.com/seifreed/osintctf) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
+- [Osint-spy](https://github.com/monosource/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [DarkSearch](https://darksearch.io) : Un moteur de recherche pour le dark web.
+- [Ahmia](https://ahmia.fi) : Un moteur de recherche pour le dark web.
+- [Torch](http://xmh57jrzrnw6insl.onion) : Un moteur de recherche pour le dark web.
+- [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
+- [NotEvil](http://hss3uro2hsxfogfq.onion) : Un moteur de recherche pour le dark web.
+- [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
+- [LeaksLeaks](http://leak5vm7t7i4sgceiofqko3s3lh4lvmrxgmry33k2hkldc3tb2pxfkqd.onion) : Une plateforme pour les fuites de données.
+- [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) : Une plateforme pour les fuites de données.
+- [Snov.io](https://snov.io) : Un outil pour la recherche d'adresses e-mail.
+- [Emailrep.io](https://emailrep.io) : Un service pour la recherche d'adresses e-mail.
+- [Hunter](https://hunter.io) : Un outil pour la recherche d'adresses e-mail.
+- [Email Permutator+](https://metricsparrow.com/toolkit/email-permutator/) : Un outil pour générer des combinaisons d'adresses e-mail.
+- [Skrapp](https://www.skrapp.io) : Un outil pour la recherche d'adresses e-mail.
+- [EpiOS](https://epios.org) : Un moteur de recherche d'adresses e-mail liées à des fuites de données.
+- [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.
+- [PimEyes](https://pimeyes.com) : Un moteur de recherche inversée d'images.
+- [Yandex Images](https://yandex.com/images) : Un moteur de recherche d'images de Yandex.
+- [Bing Images](https://www.bing.com/images) : Un moteur de recherche d'images de Bing.
+- [ImgOps](https://imgops.com) : Un outil pour l'analyse d'images.
+- [Sensity AI](https://www.sensity.ai) : Un outil de surveillance de vidéos en ligne.
+- [CAMEO](https://www.cameo.com) : Un moteur de recherche pour des vidéos en ligne.
+- [Osintfr](https://www.osintfr.com) : Une plateforme francophone d'OSINT proposant des articles et des outils.
+- [Bellingcat](https://www.bellingcat.com) : Un site web de journalisme d'investigation basé sur l'OSINT.
+- [EpiOS](https://epios.org) : Un moteur de recherche d'adresses e-mail liées à des fuites de données.
+- [Osintctf](https://github.com/seifreed/osintctf) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
+- [Osint-spy](https://github.com/monosource/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [DarkSearch](https://darksearch.io) : Un moteur de recherche pour le dark web.
+- [Ahmia](https://ahmia.fi) : Un moteur de recherche pour le dark web.
+- [Torch](http://xmh57jrzrnw6insl.onion) : Un moteur de recherche pour le dark web.
+- [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
+- [NotEvil](http://hss3uro2hsxfogfq.onion) : Un moteur de recherche pour le dark web.
+- [LeaksLeaks](http://leak5vm7t7i4sgceiofqko3s3lh4lvmrxgmry33k2hkldc3tb2pxfkqd.onion) : Une plateforme pour les fuites de données.
+- [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) : Une plateforme pour les fuites de données.
+- [Osintfr](https://www.osintfr.com) : Une plateforme francophone d'OSINT proposant des articles et des outils.
+- [Bellingcat](https://www.bellingcat.com) : Un site web de journalisme d'investigation basé sur l'OSINT.
+- [Osintctf](https://github.com/seifreed/osintctf) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
+- [Osint-spy](https://github.com/monosource/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [DarkSearch](https://darksearch.io) : Un moteur de recherche pour le dark web.
+- [Ahmia](https://ahmia.fi) : Un moteur de recherche pour le dark web.
+- [Torch](http://xmh57jrzrnw6insl.onion) : Un moteur de recherche pour le dark web.
+- [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
+- [NotEvil](http://hss3uro2hsxfogfq.onion) : Un moteur de recherche pour le dark web.
+- [LeaksLeaks](http://leak5vm7t7i4sgceiofqko3s3lh4lvmrxgmry33k2hkldc3tb2pxfkqd.onion) : Une plateforme pour les fuites de données.
+- [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) : Une plateforme pour les fuites de données.
+- [Snov.io](https://snov.io) : Un outil pour la recherche d'adresses e-mail.
+- [Emailrep.io](https://emailrep.io) : Un service pour la recherche d'adresses e-mail.
+- [Hunter](https://hunter.io) : Un outil pour la recherche d'adresses e-mail.
+- [Email Permutator+](https://metricsparrow.com/toolkit/email-permutator/) : Un outil pour générer des combinaisons d'adresses e-mail.
+- [Skrapp](https://www.skrapp.io) : Un outil pour la recherche d'adresses e-mail.
+- [EpiOS](https://epios.org) : Un moteur de recherche d'adresses e-mail liées à des fuites de données.
+- [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.
+- [Cognalys](https://www.cognalys.com) : Un service pour la reconnaissance faciale.
+- [BioID](https://www.bioid.com) : Un service pour la reconnaissance faciale.
+- [TrueFace](https://www.trueface.ai) : Un service pour la reconnaissance faciale.
+- [Sightcorp](https://sightcorp.com) : Un service pour la reconnaissance faciale.
+- [FaceFirst](https://www.facefirst.com) : Un service pour la reconnaissance faciale.
+- [Face++](https://www.faceplusplus.com) : Un service pour la reconnaissance faciale.
+- [DeepFace](https://github.com/faceteam/facenet) : Un service pour la reconnaissance faciale.
+- [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.
+- [Cognalys](https://www.cognalys.com) : Un service pour la reconnaissance faciale.
+- [BioID](https://www.bioid.com) : Un service pour la reconnaissance faciale.
+- [TrueFace](https://www.trueface.ai) : Un service pour la reconnaissance faciale.
+- [Sightcorp](https://sightcorp.com) : Un service pour la reconnaissance faciale.
+- [FaceFirst](https://www.facefirst.com) : Un service pour la reconnaissance faciale.
+- [Face++](https://www.faceplusplus.com) : Un service pour la reconnaissance faciale.
+- [DeepFace](https://github.com/faceteam/facenet) : Un service pour la reconnaissance faciale.
+- [OpenALPR](https://www.openalpr.com) : Un service pour la reconnaissance de plaques d'immatriculation.
+- [Plate Recognizer](https://platerecognizer.com) : Un service pour la reconnaissance de plaques d'immatriculation.
+- [Rekor Systems](https://www.rekor.ai) : Un service pour la reconnaissance de plaques d'immatriculation.
+- [Vaxtor](https://www.vaxtor.com) : Un service pour la reconnaissance de plaques d'immatriculation.
+- [DRIVER's GATE](https://www.driversgate.com) : Un service pour la reconnaissance de plaques d'immatriculation.
+- [TruNarc](https://www.smithsdetection.com/products/trunarc/) : Un outil pour l'identification de substances illicites.
+- [Biosensor](https://www.dhs.gov/science-and-technology/biosensor) : Un outil pour l'identification de substances illicites.
+- [Narcotics Intelligence](https://www.justnet.org/other/narcotics.html) : Un outil pour l'identification de substances illicites.
+- [Ion Track](https://www.iontrack.com) : Un outil pour l'identification de substances illicites.
+- [Cognitech](https://www.cognitech.com) : Un outil pour l'analyse de vidéos et d'images.
+- [Amped Software](https://ampedsoftware.com) : Un outil pour l'analyse de vidéos et d'images.
+- [Ocean Systems](https://www.oceansystems.com) : Un outil pour l'analyse de vidéos et d'images.
+- [Nero Digital](https://www.nero.com) : Un outil pour l'analyse de vidéos et d'images.
+- [VizWorkshop](https://www.vizworkshop.com) : Un outil pour l'analyse de vidéos et d'images.
+- [Pikazo](https://pikazoapp.com) : Un outil pour la génération d'images.
+- [DeepArt](https://deepart.io) : Un outil pour la génération d'images.
+- [Deep Dream Generator](https://deepdreamgenerator.com) : Un outil pour la génération d'images.
+- [Artbreeder](https://www.artbreeder.com) : Un outil pour la génération d'images.
+- [Runway ML](https://runwayml.com) : Un outil pour la génération d'images.
+- [Gaussia](https://gaussia.com) : Un outil pour la génération d'images.
+- [Deeparteffects](https://www.deeparteffects.com) : Un outil pour la génération d'images.
+- [Daz 3D](https://www.daz3d.com) : Un outil pour la génération d'images.
+- [Vidado](https://www.vidado.ai) : Un outil pour l'OCR (reconnaissance optique de caractères).
+- [Docsumo](https://docsumo.com) : Un outil pour l'OCR (reconnaissance optique de caractères).
+- [Infrrd](https://infrrd.ai) : Un outil pour l'OCR (reconnaissance optique de caractères).
+- [Rossum](https://rossum.ai) : Un outil pour l'OCR (reconnaissance optique de caractères).
+- [NanoNets](https://nanonets.com) : Un outil pour l'OCR (reconnaissance optique de caractères).
+- [Alfresco](https://www.alfresco.com) : Un outil de gestion de contenu d'entreprise (ECM).
+- [M-Files](https://www.m-files.com) : Un outil de gestion de contenu d'entreprise (ECM).
+- [Nuxeo](https://www.nuxeo.com) : Un outil de gestion de contenu d'entreprise (ECM).
+- [OpenText](https://www.opentext.com) : Un outil de gestion de contenu d'entreprise (ECM).
+- [Laserfiche](https://www.laserfiche.com) : Un outil de gestion de contenu d'entreprise (ECM).
+- [Epson](https://www.epson.com) : Un outil pour la numérisation de documents.
+- [Fujitsu](https://www.fujitsu.com) : Un outil pour la numérisation de documents.
+- [Brother](https://www.brother-usa.com) : Un outil pour la numérisation de documents.
+- [Canon](https://www.usa.canon.com) : Un outil pour la numérisation de documents.
+- [Kodak](https://www.kodak.com) : Un outil pour la numérisation de documents.
+- [Plustek](https://plustek.com) : Un outil pour la numérisation de documents.
+- [Ricoh](https://www.ricoh-usa.com) : Un outil pour la numérisation de documents.
+- [Visioneer](https://www.visioneer.com) : Un outil pour la numérisation de documents.
+- [Xerox](https://www.xerox.com) : Un outil pour la numérisation de documents.
+- [Tesseract](https://tesseract.projectnaptha.com) : Un moteur de reconnaissance optique de caractères open source.
+- [OCR.space](https://ocr.space) : Un service pour l'OCR (reconnaissance optique de caractères).
+- [Microsoft Azure OCR](https://azure.microsoft.com/services/cognitive-services/computer-vision/) : Un service pour l'OCR (reconnaissance optique de caractères).
+- [Google Cloud Vision OCR](https://cloud.google.com/vision/docs/ocr) : Un service pour l'OCR (reconnaissance optique de caractères).
+- [Amazon Textract](https://aws.amazon.com/textract) : Un service pour l'OCR (reconnaissance optique de caractères).
+- [ABBYY FineReader](https://www.abbyy.com/fr-fr/finereader) : Un logiciel d'OCR (reconnaissance optique de caractères).
+- [Adobe Acrobat OCR](https://acrobat.adobe.com/fr/fr/acrobat/online/ocr-software.html) : Un service pour l'OCR (reconnaissance optique de caractères).
+- [Readiris](https://www.irislink.com) : Un logiciel d'OCR (reconnaissance optique de caractères).
+- [OmniPage](https://www.kofax.com/Products/omnipage) : Un logiciel d'OCR (reconnaissance optique de caractères).
+- [StegExpose](https://github.com/b3dk7/StegExpose) : Un outil pour détecter la stéganographie dans les images.
+- [StegCracker](https://github.com/Paradoxis/StegCracker) : Un outil pour casser les mots de passe de fichiers stéganographiques.
+- [OpenStego](https://www.openstego.com) : Un outil pour la stéganographie.
+- [Steghide](https://github.com/StefanoDeVuono/steghide) : Un outil pour la stéganographie.
+- [OutGuess](https://www.outguess.org) : Un outil pour la stéganographie.

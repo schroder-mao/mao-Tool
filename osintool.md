@@ -1,3 +1,7 @@
+**Remarque :** Cette liste est sujette à des mises à jour régulières pour garantir sa pertinence et son exhaustivité. Je m'engage à la maintenir à jour avec les nouvelles ressources et les changements dans le domaine de l'OSINT.
+
+
+
 ## Recherche d'Informations Générales
 - [Google](https://www.google.com) : Le moteur de recherche le plus utilisé au monde.
 - [Bing](https://www.bing.com) : Un moteur de recherche de Microsoft.
@@ -181,6 +185,6 @@
 - [LeakPeek](https://leakpeek.com/) : Une plateforme pour les fuites de données.
 
 
-        
+
 
 **Précaution :** En utilisant ces outils et ressources, veuillez vous assurer de respecter les lois et les politiques de confidentialité en vigueur dans votre région. L'OSINT doit être pratiqué de manière éthique et légale, en évitant toute violation de la vie privée ou toute activité illégale.

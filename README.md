@@ -86,6 +86,12 @@
 - [Baidu Maps](https://map.baidu.com) : Un service de cartographie de Baidu.
 - [Geocod.io](https://www.geocod.io) : Un service de géocodage en ligne.
 - [Pelias](https://pelias.io) : Un service de géocodage en ligne.
+- [WiGLE](https://wigle.net/) : Un outil de localisation basé sur les réseaux Wi-Fi.
+- [MarineTraffic](https://www.marinetraffic.com/) : Un outil de suivi des navires en temps réel.
+- [Snapchat Map](https://map.snapchat.com/) : Une carte interactive des Snaps partagés publiquement.
+- [SunCalc](https://www.suncalc.org/#/27.6936,-97.5195,3/2024.01.30/16:01/1/0) : Un outil pour calculer la position du soleil à n'importe quel endroit et à n'importe quelle heure.
+- [Flightradar24](https://www.flightradar24.com/11.37,54.46/4) : Un outil de suivi des vols en temps réel.
+- [What3Words](https://what3words.com/gardon.hangar.enserrer) : Un outil de géolocalisation basé sur un système de mots à trois lettres.
 
 ## Analyse de Fichiers
 - [VirusTotal](https://www.virustotal.com) : Un service qui analyse les fichiers suspects et les URL.

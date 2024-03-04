@@ -128,6 +128,7 @@
 - [Osintctf](https://osintctf.com) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
 - [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+- [MaltegoTelegramScraper]https://github.com/Ost4r4/MaltegoTelegramScraper : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.
 
 ## Recherche et d'Analyse sur le Dark Web
 
@@ -136,6 +137,8 @@
 - [Torch](http://xmh57jrzrnw6insl.onion) : Un moteur de recherche pour le dark web.
 - [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
 - [NotEvil](https://notevil.xyz) : Un moteur de recherche pour le dark web.
+- [RebirthOnionSearchMaltego](https://github.com/Ost4r4/RebirthOnionSearchMaltego) : Plugin Maltego pour trouver des liens .oignon sur Tor. Il utilise trois moteurs de recherche: Ahmia, Gdark, Tormax.
+
 
 ## Recherche d'Adresses E-mail
 
@@ -144,6 +147,7 @@
 - [Hunter](https://hunter.io) : Un outil pour la recherche d'adresses e-mail.
 - [Email Permutator+](https://metricsparrow.com/toolkit/email-permutator/) : Un outil pour générer des combinaisons d'adresses e-mail.
 - [Skrapp](https://www.skrapp.io) : Un outil pour la recherche d'adresses e-mail.
+- [Epieos](https://epieos.com/) : Un outils de déanonymisation d'adresses e-mail.
 
 ## Reconnaissance Faciale
 

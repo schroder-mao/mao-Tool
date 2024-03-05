@@ -172,6 +172,11 @@
 - [Skrapp](https://www.skrapp.io) : Un outil pour la recherche d'adresses e-mail.
 - [Epieos](https://epieos.com/) : Un outils de déanonymisation d'adresses e-mail.
 - [Profil3r](https://github.com/Greyjedix/Profil3r) : Un outils qui permet de trouver les comptes et les e-mails d'une personne + e-mails voler.
+- [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) : Un outil pour Trouver les Mots de Passe des Adresses Email Compromises.
+- [emailhippo](https://tools.emailhippo.com/) : Un outils de vérification d'e-mail.
+- [email checker](https://email-checker.net/check) : Un outils de vérification d'e-mail.
+- [holehe](https://github.com/megadose/holehe) : Un outils de vérification d'enregistrement de l'e-mail.
+
 ## Reconnaissance Faciale
 
 - [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.

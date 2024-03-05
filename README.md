@@ -211,7 +211,6 @@
 
 ## Fuites de Données
 
-- [LeaksLeaks](https://leaks.fyi) : Une plateforme pour les fuites de données.
 - [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) : Une plateforme pour les fuites de données.
 - [Dehashed](https://dehashed.com) : Une plateforme pour les fuites de données.
 - [LeakPeek](https://leakpeek.com/) : Une plateforme pour les fuites de données.

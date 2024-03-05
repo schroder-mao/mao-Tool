@@ -22,6 +22,7 @@
 - [Mojeek](https://www.mojeek.com) : Un moteur de recherche britannique indépendant.
 - [WolframAlpha](https://www.wolframalpha.com) : Un moteur de recherche de connaissances.
 - [Swisscows](https://www.swisscows.com) : Un moteur de recherche suisse axé sur la confidentialité.
+- [Google Dataset Search](https://datasetsearch.research.google.com/): Un moteur de recherche spécialisé dans la découverte d'ensembles de données.
 
 ## Recherche de Usernames
 - [Sherlock](https://github.com/sherlock-project/sherlock) : Un outil pour rechercher les noms d'utilisateur à travers différents services en ligne.
@@ -31,6 +32,9 @@
 - [Usersearch.org](https://usersearch.org) : Un moteur de recherche de profils en ligne à partir d'un nom d'utilisateur.
 - [WhatsMyName](https://whatsmyname.app/) : Un outil pour rechercher des utilisateurs sur de nombreuses plateformes en ligne.
 - [Blackbird OSINT](https://blackbird-osint.herokuapp.com/) : Un outil pour rechercher des noms d'utilisateur sur plusieurs plateformes en ligne.
+- [Alfred](https://github.com/Alfredredbird/alfred) : Un outil simple d'utilisation, similaire a Sherlock.
+- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
+
 
 ## Réseaux Sociaux
 - [Facebook](https://www.facebook.com) : Le plus grand réseau social au monde.
@@ -59,6 +63,8 @@
 - [Hunchly](https://hunch.ly) : Un outil de capture et d'archivage de pages web.
 - [Pastebin](https://pastebin.com) : Un site web permettant de partager du texte en ligne de manière anonyme.
 - [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
+- [MMNT](https://www.mmnt.ru/): Une plateforme de recherche et d'archivage de fichiers multimédias.
+- [OSINT Compass Portal](https://osint-compass-portal.onrender.com/): Un portail d'OSINT fournissant des ressources et des outils pour la collecte d'informations.
 
 ## Analyse d'Images
 - [TinEye](https://tineye.com) : Un moteur de recherche inversée d'images.
@@ -92,6 +98,8 @@
 - [SunCalc](https://www.suncalc.org/#/27.6936,-97.5195,3/2024.01.30/16:01/1/0) : Un outil pour calculer la position du soleil à n'importe quel endroit et à n'importe quelle heure.
 - [Flightradar24](https://www.flightradar24.com/11.37,54.46/4) : Un outil de suivi des vols en temps réel.
 - [What3Words](https://what3words.com/gardon.hangar.enserrer) : Un outil de géolocalisation basé sur un système de mots à trois lettres.
+- [Fiugis Maps ArcGIS](https://fiugis.maps.arcgis.com/): Une plateforme pour la visualisation de cartes et d'informations géographiques basée sur ArcGIS.
+- [HuntIntel](https://www.huntintel.io/): Une plateforme pour rechercher des informations sur les propriétaires de domaines et les ressources IP.
 
 ## Analyse de Fichiers
 - [VirusTotal](https://www.virustotal.com) : Un service qui analyse les fichiers suspects et les URL.
@@ -103,6 +111,11 @@
 - [Koodous](https://koodous.com) : Une communauté de partage de malwares.
 - [Intezer Analyze](https://analyze.intezer.com) : Un service d'analyse de malwares basé sur la génomique.
 - [URLVoid](https://www.urlvoid.com) : Un service qui analyse les URL.
+- [Academic Torrents](https://academictorrents.com/): Une plateforme pour le partage de fichiers torrent académiques et de recherche.
+- [4shared](https://www.4shared.com/): Une plateforme de partage de fichiers en ligne.
+- [FileSearching](http://www.filesearching.com/): Un moteur de recherche de fichiers en ligne.
+- [PDF Analyser](http://pdf-analyser.edpsciences.org/): Un outil pour l'analyse de fichiers PDF.
+- [PDF24 Extract Images](https://tools.pdf24.org/en/extract-images): Un outil pour extraire des images à partir de fichiers PDF.
 
 ## Analyse de Réseau
 - [Wireshark](https://www.wireshark.org) : Un outil d'analyse de paquets réseau.
@@ -133,8 +146,12 @@
 - [Hunchly](https://www.hunch.ly) : Un outil de capture et d'archivage de pages web.
 - [Osintctf](https://osintctf.com) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
-- [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
 - [MaltegoTelegramScraper](https://github.com/Ost4r4/MaltegoTelegramScraper) : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.
+- [OpenDataNetwork](https://www.opendatanetwork.com/) : Un site fournissant un accès à des ensembles de données ouvertes.
+- [Humdata](https://data.humdata.org/) : Un site proposant des ensembles de données humanitaires ouvertes.
+- [Social Searcher](https://www.social-searcher.com/): Un outil de recherche sociale permettant de surveiller les mentions sur les réseaux sociaux et le web.
+- [Awario](https://awario.com/): Un outil de veille sociale et de surveillance des mentions sur les réseaux sociaux et le web.
+- [Social Analyzer](https://github.com/qeeqbox/social-analyzer): Un outil open source pour l'analyse des profils sociaux.
 
 ## Recherche et d'Analyse sur le Dark Web
 
@@ -185,6 +202,8 @@
 
 - [Bellingcat](https://www.bellingcat.com) : Un site web de journalisme d'investigation basé sur l'OSINT.
 - [Osintfr](https://osintfr.github.io) : Une plateforme francophone d'OSINT proposant des articles et des outils.
+- [Subreddit OSINT](https://www.reddit.com/r/OSINT/): Une communauté dédiée à l'OSINT sur la plateforme Reddit.
+- [Forum OSINT](https://forum.seccodeid.com/category/osint): Un forum dédié à l' OSINT sur la plateforme SecCodeID.
 
 ## Défis OSINT
 

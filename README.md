@@ -34,7 +34,8 @@
 - [Blackbird OSINT](https://blackbird-osint.herokuapp.com/) : Un outil pour rechercher des noms d'utilisateur sur plusieurs plateformes en ligne.
 - [Alfred](https://github.com/Alfredredbird/alfred) : Un outil simple d'utilisation, similaire a Sherlock.
 - [Osintgram](https://github.com/Datalux/Osintgram) : Un outil pour la collecte d'informations sur Instagram.
-
+- [Instant Username Search](https://instantusername.com/) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur plusieurs plateformes en ligne.
+- [Username Buddy](https://usernamebuddy.com/) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur plusieurs plateformes en ligne.
 
 ## Réseaux Sociaux
 - [Facebook](https://www.facebook.com) : Le plus grand réseau social au monde.
@@ -65,6 +66,7 @@
 - [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
 - [MMNT](https://www.mmnt.ru/): Une plateforme de recherche et d'archivage de fichiers multimédias.
 - [OSINT Compass Portal](https://osint-compass-portal.onrender.com/): Un portail d'OSINT fournissant des ressources et des outils pour la collecte d'informations.
+- [FoFa](https://en.fofa.info/): Un moteur de recherche pour les données sur les actifs numériques.
 
 ## Analyse d'Images
 - [TinEye](https://tineye.com) : Un moteur de recherche inversée d'images.
@@ -77,29 +79,15 @@
 - [PimEyes](https://pimeyes.com) : Un moteur de recherche inversée d'images.
 - [Sensity AI](https://www.sensity.ai) : Un outil de surveillance de vidéos en ligne.
 - [CAMEO](https://www.cameo.com) : Un moteur de recherche pour des vidéos en ligne.
-
-## Analyse de Données Géographiques
-- [Google Maps](https://www.google.com/maps) : Un service de cartographie et de navigation de Google.
-- [OpenStreetMap](https://www.openstreetmap.org) : Un projet de cartographie collaborative.
-- [GeoNames](https://www.geonames.org) : Une base de données géographique contenant des noms de lieux du monde entier.
-- [Mapillary](https://www.mapillary.com) : Un service de cartographie basé sur les images.
-- [Here Maps](https://www.here.com) : Un service de cartographie et de localisation.
-- [Wikimapia](https://www.wikimapia.org) : Un projet de cartographie collaborative.
-- [Bing Maps](https://www.bing.com/maps) : Un service de cartographie de Microsoft.
-- [MapQuest](https://www.mapquest.com) : Un service de cartographie et de navigation.
-- [TomTom](https://www.tomtom.com) : Un fournisseur de services de cartographie et de navigation.
-- [Mapbox](https://www.mapbox.com) : Une plateforme de cartographie.
-- [Baidu Maps](https://map.baidu.com) : Un service de cartographie de Baidu.
-- [Geocod.io](https://www.geocod.io) : Un service de géocodage en ligne.
-- [Pelias](https://pelias.io) : Un service de géocodage en ligne.
-- [WiGLE](https://wigle.net/) : Un outil de localisation basé sur les réseaux Wi-Fi.
-- [MarineTraffic](https://www.marinetraffic.com/) : Un outil de suivi des navires en temps réel.
-- [Snapchat Map](https://map.snapchat.com/) : Une carte interactive des Snaps partagés publiquement.
-- [SunCalc](https://www.suncalc.org/#/27.6936,-97.5195,3/2024.01.30/16:01/1/0) : Un outil pour calculer la position du soleil à n'importe quel endroit et à n'importe quelle heure.
-- [Flightradar24](https://www.flightradar24.com/11.37,54.46/4) : Un outil de suivi des vols en temps réel.
-- [What3Words](https://what3words.com/gardon.hangar.enserrer) : Un outil de géolocalisation basé sur un système de mots à trois lettres.
-- [Fiugis Maps ArcGIS](https://fiugis.maps.arcgis.com/): Une plateforme pour la visualisation de cartes et d'informations géographiques basée sur ArcGIS.
-- [HuntIntel](https://www.huntintel.io/): Une plateforme pour rechercher des informations sur les propriétaires de domaines et les ressources IP.
+- [QGIS](https://qgis.org/): Un système d'information géographique (SIG) open source pour la visualisation, l'édition et l'analyse de données géographiques.
+- [ArcGIS Online](https://www.arcgis.com/index.html): Une plateforme de cartographie en ligne qui permet de créer, partager et analyser des cartes.
+- [Leaflet](https://leafletjs.com/): Une bibliothèque JavaScript open source pour la création de cartes interactives sur le web.
+- [Carto](https://carto.com/): Une plateforme de cartographie et d'analyse spatiale qui permet de visualiser et d'analyser des données géographiques.
+- [GeoServer](http://geoserver.org/): Un serveur d'application open source qui permet de partager des données géospatiales via des services web standards.
+- [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro): Une version professionnelle du logiciel Google Earth qui offre des fonctionnalités avancées pour la visualisation et l'analyse géospatiale.
+- [MapWindow](https://www.mapwindow.org/): Un logiciel SIG open source pour l'analyse et la visualisation de données géographiques.
+- [GeoDa](https://geodacenter.github.io/): Un logiciel open source pour l'analyse exploratoire de données spatiales.
+- [OpenLayers](https://openlayers.org/): Une bibliothèque JavaScript open source pour la création de cartes interactives sur le web.
 
 ## Analyse de Fichiers
 - [VirusTotal](https://www.virustotal.com) : Un service qui analyse les fichiers suspects et les URL.
@@ -132,7 +120,7 @@
 - [Darkstat](https://unix4lyfe.org/darkstat) : Un outil de surveillance de réseau.
 - [Chaosreader](http://chaosreader.sourceforge.net) : Un outil pour extraire les données des fichiers de capture réseau.
 
-## Analyse et de Collecte d'Informations OSINT
+## Analyse et de Collecte d'Informations
 - [SpiderFoot](https://www.spiderfoot.net) : Un outil de collecte d'informations et d'analyse.
 - [Maltego](https://www.maltego.com) : Un outil d'exploration de données et de visualisation.
 - [theHarvester](https://github.com/laramies/theHarvester) : Un outil pour la collecte d'informations sur les courriels, les noms de domaine, les sous-domaines, etc.
@@ -155,13 +143,33 @@
 
 ## Recherche et d'Analyse sur le Dark Web
 
-- [DarkSearch](https://darksearch.io) : Un moteur de recherche pour le dark web.
 - [Ahmia](https://ahmia.fi) : Un moteur de recherche pour le dark web.
-- [Torch](http://xmh57jrzrnw6insl.onion) : Un moteur de recherche pour le dark web.
 - [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) : Un moteur de recherche pour le dark web.
-- [NotEvil](https://notevil.xyz) : Un moteur de recherche pour le dark web.
 - [RebirthOnionSearchMaltego](https://github.com/Ost4r4/RebirthOnionSearchMaltego) : Plugin Maltego pour trouver des liens .oignon sur Tor. Il utilise trois moteurs de recherche: Ahmia, Gdark, Tormax.
+- [DarkWeb Link](https://darkweb.link/): Un annuaire de liens vers des sites Web du Dark Web.
+- [Dark.fail](https://dark.fail/): Un service qui surveille la disponibilité des marchés du Dark Web.
+- [Onion.Live](https://onion.live/): Un annuaire des sites Web du Dark Web avec des informations sur leur statut de disponibilité.
+- [DarkSearch for Maltego](https://www.paterva.com/web7/downloads/capes/ToR-SearchTransformGuide.pdf): Un ensemble de transformations Maltego pour la recherche sur le Dark Web.
+- [Onion Search Engine](https://onionsearchengine.com/): Un moteur de recherche du Dark Web.
+- [OnionScan](https://onionscan.org/): Un outil pour scanner et détecter les sites Onion (sites du Dark Web).
+- [Recon-ng](https://github.com/lanmaster53/recon-ng): Un framework de reconnaissance pour la collecte d'informations sur le Dark Web et d'autres sources.
+- [Tor Metrics](https://metrics.torproject.org/): Des statistiques sur l'utilisation de Tor et la santé du réseau Tor.
+- [Tails](https://tails.boum.org/): Un système d'exploitation live basé sur Debian conçu pour préserver la vie privée et l'anonymat.
 
+
+## Outils de Recherche et d'Analyse des Numéros de GSM
+
+- [Truecaller](https://www.truecaller.com/): Une application pour identifier les appelants inconnus et bloquer les appels indésirables.
+- [NumLookup](https://www.numlookup.com/): Un service en ligne pour rechercher des informations sur les numéros de téléphone, y compris le nom du propriétaire.
+- [Spokeo](https://www.spokeo.com/): Un service de recherche de personnes qui peut fournir des informations sur les numéros de téléphone.
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/): Un service en ligne pour rechercher des informations sur les numéros de téléphone.
+- [Whoscall](https://whoscall.com/): Une application pour identifier les appelants inconnus et bloquer les spams téléphoniques.
+- [CallerSmart](https://www.callersmart.com/): Une application pour identifier les appelants inconnus et bloquer les appels indésirables.
+- [Sync.ME](https://sync.me/): Une application pour identifier les appelants inconnus, bloquer les appels indésirables et synchroniser les contacts.
+- [Reverse Phone Check](https://www.reversephonecheck.com/): Un service en ligne pour effectuer des recherches inversées sur les numéros de téléphone.
+- [Spy Dialer](https://www.spydialer.com/): Un service pour rechercher des informations sur les numéros de téléphone, y compris les noms associés.
+- [NumVerify](https://numverify.com/): Un service pour valider et vérifier les numéros de téléphone dans le monde entier.
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/): Un service en ligne pour rechercher des informations sur les numéros de téléphone.
 
 ## Recherche d'Adresses E-mail
 
@@ -175,6 +183,9 @@
 - [emailhippo](https://tools.emailhippo.com/) : Un outils de vérification d'e-mail.
 - [email checker](https://email-checker.net/check) : Un outils de vérification d'e-mail.
 - [holehe](https://github.com/megadose/holehe) : Un outils de vérification d'enregistrement de l'e-mail.
+- [Clearbit Connect](https://clearbit.com/connect) : Un outil qui permet de trouver des adresses e-mail professionnelles à partir du nom de la personne et de l'entreprise.
+- [VerifyEmailAddress.org](https://verifyemailaddress.org/) : Un service en ligne pour vérifier la validité des adresses e-mail.
+- [NeverBounce](https://neverbounce.com/) : Un autre service de validation d'adresses e-mail pour garantir leur précision et leur authenticité.
 
 ## Reconnaissance Faciale
 

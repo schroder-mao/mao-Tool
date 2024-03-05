@@ -219,8 +219,8 @@
 - [Dehashed](https://dehashed.com) : Une plateforme pour les fuites de données.
 - [LeakPeek](https://leakpeek.com/) : Une plateforme pour les fuites de données.
 - [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) : Un outil pour Trouver les Mots de Passe des Adresses Email Compromises.
-- [haveibeenpwned](https://haveibeenpwned.com/) : Un outils check fuite de donnée.
-
+- [haveibeenpwned](https://haveibeenpwned.com/) : Un outils check fuite.
+- [breachdirectory](https://breachdirectory.org/) : Un outils de check de fuite.
 
 
 **Précaution :** En utilisant ces outils et ressources, veuillez vous assurer de respecter les lois et les politiques de confidentialité en vigueur dans votre région. L'OSINT doit être pratiqué de manière éthique et légale, en évitant toute violation de la vie privée ou toute activité illégale.

@@ -105,6 +105,19 @@
 - [PDF Analyser](http://pdf-analyser.edpsciences.org/): Un outil pour l'analyse de fichiers PDF.
 - [PDF24 Extract Images](https://tools.pdf24.org/en/extract-images): Un outil pour extraire des images à partir de fichiers PDF.
 
+## Extention web
+- [Double Shot Search](https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop) 
+- [Email Extraction](https://chromewebstore.google.com/detail/email-extraction/ejecpjcajdpbjbmlcojcohgenjngflac) 
+- [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij?hl=en)  
+- [Ip Address and Domain info](https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)
+- [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+- [Search by Image](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)
+- [Sputnik](https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd)
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+- [Unpaywall](https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
+- [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) 
+- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
+
 ## Analyse de Réseau
 - [Wireshark](https://www.wireshark.org) : Un outil d'analyse de paquets réseau.
 - [Nmap](https://nmap.org) : Un scanner de ports et un outil de détection de vulnérabilités.

@@ -1,4 +1,4 @@
-# Liste d'outils OSINTOOL
+# Liste d'outils Mao-TOOL
 
 
 **Remarque :** Cette liste est sujette à des mises à jour régulières pour garantir sa pertinence et son exhaustivité. Je m'engage à la maintenir à jour avec les nouvelles ressources et les changements dans le domaine de l'OSINT.
@@ -6,7 +6,7 @@
 
 
 ## Recherche d'Informations Générales
-- [Google](https://www.google.com) : Le moteur de recherche le plus utilisé au monde.
+- [Google](8.8.8.8) : Le moteur de recherche le plus utilisé au monde.
 - [Bing](https://www.bing.com) : Un moteur de recherche de Microsoft.
 - [DuckDuckGo](https://duckduckgo.com) : Un moteur de recherche qui se concentre sur la confidentialité de l'utilisateur.
 - [Yahoo](https://www.yahoo.com) : Un portail web offrant un moteur de recherche, des actualités et d'autres services.

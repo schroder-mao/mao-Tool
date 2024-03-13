@@ -6,7 +6,7 @@
 
 
 ## Recherche d'Informations Générales
-- [Google](8.8.8.8) : Le moteur de recherche le plus utilisé au monde.
+- [Google](https://google.com) : Le moteur de recherche le plus utilisé au monde.
 - [Bing](https://www.bing.com) : Un moteur de recherche de Microsoft.
 - [DuckDuckGo](https://duckduckgo.com) : Un moteur de recherche qui se concentre sur la confidentialité de l'utilisateur.
 - [Yahoo](https://www.yahoo.com) : Un portail web offrant un moteur de recherche, des actualités et d'autres services.
@@ -145,7 +145,6 @@
 - [OSINT Combine](https://osintcombine.com) : Un outil pour combiner et analyser des données OSINT provenant de différentes sources.
 - [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
 - [Hunchly](https://www.hunch.ly) : Un outil de capture et d'archivage de pages web.
-- [Osintctf](https://osintctf.com) : Un outil pour organiser des compétitions d'OSINT sous forme de CTF.
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
 - [MaltegoTelegramScraper](https://github.com/Ost4r4/MaltegoTelegramScraper) : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.
 - [OpenDataNetwork](https://www.opendatanetwork.com/) : Un site fournissant un accès à des ensembles de données ouvertes.
@@ -202,7 +201,6 @@
 
 ## Reconnaissance Faciale
 
-- [Earsketch](https://www.earsketch.com) : Un outil pour la reconnaissance faciale.
 - [Cognalys](https://www.cognalys.com) : Un service pour la reconnaissance faciale.
 - [BioID](https://www.bioid.com) : Un service pour la reconnaissance faciale.
 - [TrueFace](https://www.trueface.ai) : Un service pour la reconnaissance faciale.
@@ -215,9 +213,7 @@
 
 - [OpenALPR](https://www.openalpr.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 - [Plate Recognizer](https://platerecognizer.com) : Un service pour la reconnaissance de plaques d'immatriculation.
-- [Rekor Systems](https://rekorsystems.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 - [Vaxtor](https://www.vaxtor.com) : Un service pour la reconnaissance de plaques d'immatriculation.
-- [DRIVER's GATE](https://www.driversgate.com) : Un service pour la reconnaissance de plaques d'immatriculation.
 
 ## Reconnaissance Optique de Caractères (OCR)
 
@@ -235,7 +231,7 @@
 
 ## Défis OSINT
 
-- [Ozint](https://ozint.com) : Un site proposant des défis d'OSINT pour tester et développer ses compétences.
+- [Ozint](https://ozint.eu/) : Un site proposant des défis d'OSINT pour tester et développer ses compétences.
 
 ## Fuites de Données
 

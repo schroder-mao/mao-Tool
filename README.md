@@ -106,17 +106,17 @@
 - [PDF24 Extract Images](https://tools.pdf24.org/en/extract-images): Un outil pour extraire des images à partir de fichiers PDF.
 
 ## Extention web
-- [Double Shot Search](https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop) 
-- [Email Extraction](https://chromewebstore.google.com/detail/email-extraction/ejecpjcajdpbjbmlcojcohgenjngflac) 
-- [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij?hl=en)  
-- [Ip Address and Domain info](https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa)
-- [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
-- [Search by Image](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci)
-- [Sputnik](https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd)
-- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-- [Unpaywall](https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
-- [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) 
-- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en)
+- [Double Shot Search](https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop) : Une extension innovante qui permet de diviser les recherches et d'effectuer des requêtes simultanées sur deux navigateurs différents.
+- [Email Extraction](https://chromewebstore.google.com/detail/email-extraction/ejecpjcajdpbjbmlcojcohgenjngflac) : Permet d'extraire les adresses e-mail à partir des pages web.
+- [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij?hl=en) : Un outil de blocage de suivi et de publicités.
+- [Ip Address and Domain info](https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa) : Donne des informations sur les adresses IP et les domaines.
+- [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) : Un autre outil de protection de la vie privée qui bloque les trackers.
+- [Search by Image](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) : Facilite la recherche d'images en ligne en consultant une liste d'outils d'image inversée pour des résultats plus complets.
+- [Sputnik](https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd) : Simplifie la recherche en effectuant des requêtes simultanées sur des URL, des adresses IP, des domaines et des hachages.
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) : Un bloqueur de publicités efficace.
+- [Unpaywall](https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) : Vous aide à trouver des articles scientifiques en accès libre.
+- [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) : Permet d'accéder à des versions archivées des pages web.
+- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) : Identifie les technologies utilisées sur les sites web que vous visitez.
 
 ## Analyse de Réseau
 - [Wireshark](https://www.wireshark.org) : Un outil d'analyse de paquets réseau.

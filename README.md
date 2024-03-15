@@ -103,6 +103,7 @@
 - [FileSearching](http://www.filesearching.com/): Un moteur de recherche de fichiers en ligne.
 - [PDF Analyser](http://pdf-analyser.edpsciences.org/): Un outil pour l'analyse de fichiers PDF.
 - [PDF24 Extract Images](https://tools.pdf24.org/en/extract-images): Un outil pour extraire des images à partir de fichiers PDF.
+- [URLSANDBOX](https://www.browserling.com/browser-sandbox) : sandbox d'url (ouvre l'url dans une sandbox pour afficher le contenue de la page et naviguer dans le site) 
 
 ## Extention web
 - [Double Shot Search](https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop) : Une extension innovante qui permet de diviser les recherches et d'effectuer des requêtes simultanées sur deux navigateurs différents.
@@ -166,7 +167,6 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng): Un framework de reconnaissance pour la collecte d'informations sur le Dark Web et d'autres sources.
 - [Tor Metrics](https://metrics.torproject.org/): Des statistiques sur l'utilisation de Tor et la santé du réseau Tor.
 - [Tails](https://tails.boum.org/): Un système d'exploitation live basé sur Debian conçu pour préserver la vie privée et l'anonymat.
-
 
 ## Outils de Recherche et d'Analyse des Numéros de GSM
 

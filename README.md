@@ -131,6 +131,7 @@
 - [Moloch](https://molo.ch) : Un outil de capture de paquets réseau.
 - [Darkstat](https://unix4lyfe.org/darkstat) : Un outil de surveillance de réseau.
 - [Chaosreader](http://chaosreader.sourceforge.net) : Un outil pour extraire les données des fichiers de capture réseau.
+- [Suricata](https://suricata.io/download/) : Un système de détection d'intrusion réseau.
 
 ## Analyse et de Collecte d'Informations
 - [SpiderFoot](https://www.spiderfoot.net) : Un outil de collecte d'informations et d'analyse.
@@ -200,7 +201,6 @@
 
 ## Reconnaissance Faciale
 
-- [Cognalys](https://www.cognalys.com) : Un service pour la reconnaissance faciale.
 - [BioID](https://www.bioid.com) : Un service pour la reconnaissance faciale.
 - [TrueFace](https://www.trueface.ai) : Un service pour la reconnaissance faciale.
 - [Sightcorp](https://sightcorp.com) : Un service pour la reconnaissance faciale.

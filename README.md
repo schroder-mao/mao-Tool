@@ -172,6 +172,7 @@
 - [Recon-ng](https://github.com/lanmaster53/recon-ng): Un framework de reconnaissance pour la collecte d'informations sur le Dark Web et d'autres sources.
 - [Tor Metrics](https://metrics.torproject.org/): Des statistiques sur l'utilisation de Tor et la santé du réseau Tor.
 - [Tails](https://tails.boum.org/): Un système d'exploitation live basé sur Debian conçu pour préserver la vie privée et l'anonymat.
+- [BookmarksOnionLinks](https://www.osintcombine.com/_files/archives/c17c29_45075dc650e94c8f83d526e64ff0e63e.zip?dn=bookmarks-tor.zip) : Un bookmarks pour vos recherches sur le darkweb.
 
 ## Outils de Recherche et d'Analyse des Numéros de GSM
 

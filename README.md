@@ -50,6 +50,9 @@
 - [VKontakte (VK)](https://vk.com) : Un réseau social russe.
 - [Line](https://line.me) : Une application de messagerie et de médias sociaux japonaise.
 - [KakaoTalk](https://www.kakaocorp.com/service/KakaoTalk) : Une application de messagerie coréenne.
+- [TwitterId](https://commentpicker.com/) : Utilisez l'outil IND TWITTER ID pour obtenir l'identifiant utilisateur Twitter, le nom d'utilisateur, les statistiques et les informations pour n'importe quel compte Twitter.
+- [InstaExplore](https://www.osintcombine.com/instagram-explorer) : Explorer tout les postes, via une carte.
+- [RedditPost](https://www.osintcombine.com/reddit-post-analyser) : Analyse de post Reddit.
 
 ## Moteurs de Recherche Avancés
 - [Shodan](https://www.shodan.io) : Un moteur de recherche pour les dispositifs connectés à Internet.
@@ -117,6 +120,7 @@
 - [Unpaywall](https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) : Vous aide à trouver des articles scientifiques en accès libre.
 - [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) : Permet d'accéder à des versions archivées des pages web.
 - [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) : Identifie les technologies utilisées sur les sites web que vous visitez.
+- [FullOsintToolBookmarks]("C:\Users\schro\Downloads\bookmarks_1_17_24\bookmarks_1_17_24.html") : Un bookmarks avec plein d'outils pour vos enquêtes. 
 
 ## Analyse de Réseau
 - [Wireshark](https://www.wireshark.org) : Un outil d'analyse de paquets réseau.

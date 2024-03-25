@@ -255,6 +255,7 @@
 ## Défis OSINT
 
 - [Ozint](https://ozint.eu/) : Un site proposant des défis d'OSINT pour tester et développer ses compétences.
+- [OscarZulu](https://osint.oscarzulu.org/) : Tu veux des enquêtes qui font progresser ?
 
 ## Fuites de Données
 

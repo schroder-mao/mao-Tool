@@ -3,6 +3,25 @@
 
 **Remarque :** Cette liste est sujette à des mises à jour régulières pour garantir sa pertinence et son exhaustivité. Je m'engage à la maintenir à jour avec les nouvelles ressources et les changements dans le domaine de l'OSINT.
 
+## Table des Matières
+- [Recherche d'Informations Générales](#recherche-dinformations-générales)
+- [Recherche de Usernames](#recherche-de-usernames)
+- [Réseaux Sociaux](#réseaux-sociaux)
+- [Moteurs de Recherche Avancés](#moteurs-de-recherche-avancés)
+- [Analyse d'Images](#analyse-dimages)
+- [Analyse de Fichiers](#analyse-de-fichiers)
+- [Extension Web](#extension-web)
+- [Analyse de Réseau](#analyse-de-réseau)
+- [Analyse et de Collecte d'Informations](#analyse-et-de-collecte-dinformations)
+- [Recherche et d'Analyse sur le Dark Web](#recherche-et-danalyse-sur-le-dark-web)
+- [Outils de Recherche et d'Analyse des Numéros de GSM](#outils-de-recherche-et-danalyse-des-numéros-de-gsm)
+- [Recherche d'Adresses E-mail](#recherche-dadresses-e-mail)
+- [Reconnaissance Faciale](#reconnaissance-faciale)
+- [Reconnaissance de Plaques d'Immatriculation](#reconnaissance-de-plaques-dimmatriculation)
+- [Reconnaissance Optique de Caractères (OCR)](#reconnaissance-optique-de-caractères-ocr)
+- [Communauté OSINT](#communauté-osint)
+- [Défis OSINT](#défis-osint)
+- [Fuites de Données](#fuites-de-données)
 
 ## Recherche d'Informations Générales
 - [Google](https://google.com) : Le moteur de recherche le plus utilisé au monde.

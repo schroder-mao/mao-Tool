@@ -1,4 +1,4 @@
-# Liste d'outils Maø-TOOL
+# Liste d'outils mao-TOOL
 
 
 **Remarque :** Cette liste est sujette à des mises à jour régulières pour garantir sa pertinence et son exhaustivité. Je m'engage à la maintenir à jour avec les nouvelles ressources et les changements dans le domaine de l'OSINT.
@@ -19,6 +19,7 @@
 - [Reconnaissance Faciale](#reconnaissance-faciale)
 - [Reconnaissance de Plaques d'Immatriculation](#reconnaissance-de-plaques-dimmatriculation)
 - [Reconnaissance Optique de Caractères (OCR)](#reconnaissance-optique-de-caractères-ocr)
+- [TIPS](#tips)
 - [Communauté OSINT](#communauté-osint)
 - [Défis OSINT](#défis-osint)
 - [Fuites de Données](#fuites-de-données)
@@ -89,7 +90,7 @@
 - [OSINT Compass Portal](https://osint-compass-portal.onrender.com/): Un portail d'OSINT fournissant des ressources et des outils pour la collecte d'informations.
 - [FoFa](https://en.fofa.info/): Un moteur de recherche pour les données sur les actifs numériques.
 
-## Analyse d'Images
+## Analyse d'Images et Géographique
 - [TinEye](https://tineye.com) : Un moteur de recherche inversée d'images.
 - [Google Images](https://www.google.com/imghp) : Un moteur de recherche d'images de Google.
 - [Reverse Image Search](https://reverse.photos) : Un moteur de recherche inversée d'images.
@@ -176,6 +177,8 @@
 - [Social Searcher](https://www.social-searcher.com/): Un outil de recherche sociale permettant de surveiller les mentions sur les réseaux sociaux et le web.
 - [Awario](https://awario.com/): Un outil de veille sociale et de surveillance des mentions sur les réseaux sociaux et le web.
 - [Social Analyzer](https://github.com/qeeqbox/social-analyzer): Un outil open source pour l'analyse des profils sociaux.
+- [Dotdb](https://dotdb.com/) : Ce site permet de chercher des noms de domaines de sites enregistrés, en se basant sur un mot clé.  (limite de recherche 10 ou 30 si inscri
+
 
 ## Recherche et d'Analyse sur le Dark Web
 
@@ -244,6 +247,12 @@
 - [ABBYY FineReader](https://www.abbyy.com/en-us/finereader/) : Un service pour la reconnaissance optique de caractères.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) : Un service pour la reconnaissance optique de caractères.
 - [Google Cloud Vision](https://cloud.google.com/vision) : Un service pour la reconnaissance optique de caractères.
+
+## Tips
+
+- [Tipsgeo](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) : Astuce geoint.
+- [Bellingcat guides](https://www.bellingcat.com/category/resources/how-tos/) : Guide Bellingcat.
+- [API osint](https://hackmag.com/security/use-the-largest-social-networks-api-for-your-own-ends/) : Comment récupérer des données sensibles grâce aux API des réseaux sociaux ?
 
 ## Communauté OSINT
 

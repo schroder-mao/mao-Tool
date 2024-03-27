@@ -253,8 +253,8 @@
 - [Tipsgeo](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) : Astuce geoint.
 - [Bellingcat guides](https://www.bellingcat.com/category/resources/how-tos/) : Guide Bellingcat.
 - [API osint](https://hackmag.com/security/use-the-largest-social-networks-api-for-your-own-ends/) : Comment récupérer des données sensibles grâce aux API des réseaux sociaux ?
-- [Militarybasetuto](https://www.mil-airfields.de/index-en.html +
- https://historyhub.history.gov/military-records/b/military-records-blog/posts/researching-satellite-photography) : tuto accès DB aérienne militaire.
+- [Militarybasetuto](https://www.mil-airfields.de/index-en.html) : tuto accès DB aérienne militaire.
+- [Militarybasetuto](https://historyhub.history.gov/military-records/b/military-records-blog/posts/researching-satellite-photography) : tuto accès DB aérienne militaire.
 
 ## Communauté OSINT
 

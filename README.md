@@ -102,7 +102,7 @@
 - [Sensity AI](https://www.sensity.ai) : Un outil de surveillance de vidéos en ligne.
 - [CAMEO](https://www.cameo.com) : Un moteur de recherche pour des vidéos en ligne.
 - [QGIS](https://qgis.org/): Un système d'information géographique (SIG) open source pour la visualisation, l'édition et l'analyse de données géographiques.
-- [ArcGIS Online](https://www.arcgis.com/index.html): Une plateforme de cartographie en ligne qui permet de créer, partager et analyser des cartes.
+- [ArcGIS Online](https://www.arcgis.com/index.html): Une plateforme de cartographie en ligne qui permet de créer, partager et analyser des cartes
 - [Leaflet](https://leafletjs.com/): Une bibliothèque JavaScript open source pour la création de cartes interactives sur le web.
 - [Carto](https://carto.com/): Une plateforme de cartographie et d'analyse spatiale qui permet de visualiser et d'analyser des données géographiques.
 - [GeoServer](http://geoserver.org/): Un serveur d'application open source qui permet de partager des données géospatiales via des services web standards.

@@ -46,7 +46,6 @@
 ## Recherche de Usernames
 - [Sherlock](https://github.com/sherlock-project/sherlock) : Un outil pour rechercher les noms d'utilisateur à travers différents services en ligne.
 - [Namechk](https://namechk.com) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur plusieurs plateformes en ligne.
-- [Knowem](https://knowem.com) : Un outil pour vérifier la disponibilité d'un nom d'utilisateur sur les réseaux sociaux et les domaines.
 - [Pipl](https://pipl.com) : Un moteur de recherche spécialisé dans la recherche de personnes, y compris les noms d'utilisateur.
 - [Usersearch.org](https://usersearch.org) : Un moteur de recherche de profils en ligne à partir d'un nom d'utilisateur.
 - [WhatsMyName](https://whatsmyname.app/) : Un outil pour rechercher des utilisateurs sur de nombreuses plateformes en ligne.
@@ -154,7 +153,6 @@
 - [Socat](http://www.dest-unreach.org/socat) : Un outil multipurpose pour les connexions réseau.
 - [Snort](https://www.snort.org) : Un système de détection d'intrusion réseau.
 - [Bro](https://www.bro.org) : Un outil d'analyse de réseau.
-- [Moloch](https://molo.ch) : Un outil de capture de paquets réseau.
 - [Darkstat](https://unix4lyfe.org/darkstat) : Un outil de surveillance de réseau.
 - [Chaosreader](http://chaosreader.sourceforge.net) : Un outil pour extraire les données des fichiers de capture réseau.
 - [Suricata](https://suricata.io/download/) : Un système de détection d'intrusion réseau.
@@ -169,7 +167,6 @@
 - [OSINT Framework](https://osintframework.com) : Un framework d'OSINT qui répertorie de nombreux outils et ressources.
 - [IntelTechniques](https://inteltechniques.com) : Le site Web du spécialiste en OSINT Michael Bazzell, proposant des ressources et des outils.
 - [OSINT Combine](https://osintcombine.com) : Un outil pour combiner et analyser des données OSINT provenant de différentes sources.
-- [IntelX](https://intelx.io) : Un moteur de recherche de données diverses sur le web.
 - [Hunchly](https://www.hunch.ly) : Un outil de capture et d'archivage de pages web.
 - [Osint-spy](https://github.com/abhisharma404/osint-spy) : Un outil pour automatiser la collecte d'informations sur les réseaux sociaux.
 - [MaltegoTelegramScraper](https://github.com/Ost4r4/MaltegoTelegramScraper) : Plugin maltego qui permet de retrouver tous les comptes transférés par un utilisateur Telegram.

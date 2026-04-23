@@ -1,0 +1,1977 @@
+{
+  "generated": "2026-04-23T19:04:51+00:00",
+  "statuses": {
+    "https://www.startpage.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.yahoo.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.qwant.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://duckduckgo.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bing.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.baidu.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://google.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.ask.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.yandex.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.mojeek.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/sherlock-project/sherlock": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://datasetsearch.research.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/soxoj/maigret": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pipl.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://usersearch.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.facebook.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/Datalux/Osintgram": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/Alfredredbird/alfred": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.instagram.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://namechk.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.linkedin.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.searchencrypt.com": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://www.pinterest.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.reddit.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.snapchat.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.wolframalpha.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.swisscows.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.tiktok.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.whatsapp.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://telegram.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.shodan.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://commentpicker.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://fofa.so": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://en.fofa.info/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.kakaocorp.com/service/KakaoTalk": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://publicwww.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://line.me": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.circl.lu": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.ecosia.org": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.dogpile.com": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.gibiru.com": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://twitter.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.onyphe.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://instantusername.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://hunch.ly": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://censys.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://vk.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.mmnt.ru/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osint-compass-portal.onrender.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.google.com/imghp": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dotdb.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://tineye.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://berify.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://viewdns.info/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/projectdiscovery/subfinder": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://whatsmyname.app/": {
+      "status": "WARN",
+      "info": "464 (probable anti-bot)"
+    },
+    "https://securitytrails.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://imgops.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://reverse.photos": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/owasp-amass/amass": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.google.com/earth/versions/#earth-pro": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://yandex.com/images": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.arcgis.com/index.html": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://carto.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://geoserver.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://leafletjs.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://qgis.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bing.com/images/feed": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://wikimapia.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.mapwindow.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://geodacenter.github.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://intelx.io": {
+      "status": "OK",
+      "info": "200 [via TOR]"
+    },
+    "https://openlayers.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://www.filesearching.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://pdf-analyser.edpsciences.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://overpass-turbo.eu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.suncalc.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://any.run": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pimeyes.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://apps.sentinel-hub.com/eo-browser/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://analyze.intezer.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://metadefender.opswat.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.4shared.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://malshare.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.joesandbox.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.zoomeye.org": {
+      "status": "WARN",
+      "info": "521 (serveur indisponible)"
+    },
+    "https://tools.pdf24.org/en/extract-images": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.hybrid-analysis.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://academictorrents.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.browserling.com/browser-sandbox": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pastebin.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.virustotal.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.urlvoid.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.invid-project.eu/tools-and-services/invid-verification-plugin/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij?hl=en": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://koodous.com": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://www.dest-unreach.org/socat": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/email-extraction/ejecpjcajdpbjbmlcojcohgenjngflac": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.wireshark.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sqrx.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://nmap.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.tcpdump.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.ettercap-project.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://usernamebuddy.com/": {
+      "status": "OK",
+      "info": "200 [via TOR]"
+    },
+    "https://zmap.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/antirez/hping": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.osintcombine.com/_files/archives/f4abec_8a3a7a6c11b147de9896a13184d4c735.zip?dn=bookmarks_1_17_24.zip": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.snort.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/laramies/theHarvester": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://unix4lyfe.org/darkstat": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://crt.sh/": {
+      "status": "DEAD",
+      "info": "Timeout"
+    },
+    "https://github.com/Greenwolf/social_mapper": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osintframework.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/ilektrojohn/creepy": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/vaguileradiaz/tinfoleak": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion": {
+      "status": "OK",
+      "info": "200 [TOR]"
+    },
+    "https://www.social-searcher.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://inteltechniques.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.binaryedge.io": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.bro.org": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.opendatanetwork.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/Ost4r4/MaltegoTelegramScraper": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://awario.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.spiderfoot.net": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://data.humdata.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ahmia.fi": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.maltego.com": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://github.com/qeeqbox/social-analyzer": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://onionscan.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://suricata.io/download/": {
+      "status": "OK",
+      "info": "202 [via TOR]"
+    },
+    "https://osintcombine.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://netcat.sourceforge.net": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://metrics.torproject.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://onion.live/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/Ost4r4/RebirthOnionSearchMaltego": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://darkweb.link/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dark.fail/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.spokeo.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.truecaller.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/sundowndev/phoneinfoga": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/lanmaster53/recon-ng": {
+      "status": "OK",
+      "info": "200"
+    },
+    "http://chaosreader.sourceforge.net": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.paterva.com/web7/downloads/capes/ToR-SearchTransformGuide.pdf": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sync.me/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://tails.boum.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.spydialer.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://numverify.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://hunter.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.osintcombine.com/_files/archives/c17c29_45075dc650e94c8f83d526e64ff0e63e.zip?dn=bookmarks-tor.zip": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://emailrep.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.numlookup.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://epieos.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://snov.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/mxrch/GHunt": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/Greyjedix/Profil3r": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://email-checker.net/check": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://whoscall.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sightcorp.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://onionsearchengine.com/": {
+      "status": "OK",
+      "info": "200 [via TOR]"
+    },
+    "https://www.facefirst.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.skrapp.io": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/megadose/holehe": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.trueface.ai": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bioid.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://clearbit.com/connect": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://facecheck.id/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://metricsparrow.com/toolkit/email-permutator/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://platerecognizer.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.openalpr.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.vaxtor.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.faceplusplus.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.vesselfinder.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/tesseract-ocr/tesseract": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ocr.space": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://cloud.google.com/vision": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.flightradar24.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://verifyemailaddress.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.adsbexchange.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.callersmart.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.mil-airfields.de/index-en.html": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bellingcat.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://etherscan.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.reversephonelookup.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.bellingcat.com/category/resources/how-tos/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.reddit.com/r/OSINT/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.abbyy.com/en-us/finereader/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.chainabuse.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://haveibeenpwned.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://leakpeek.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dehashed.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/snooppr/snoop": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/thewhiteh4t/pwnedOrNot": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/soxoj/socid-extractor": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://tools.emailhippo.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://historyhub.history.gov/military-records/b/military-records-blog/posts/researching-satellite-photography": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/instaloader/instaloader": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://botometer.osome.iu.edu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://hoaxy.osome.iu.edu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/yt-dlp/yt-dlp": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ddosecrets.com": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ozint.eu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://thatsthem.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.marinetraffic.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://who.is/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://map.snapchat.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://whois.domaintools.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://netlas.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://builtwith.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dnsdumpster.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://urlscan.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://leakix.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://forum.seccodeid.com/category/osint": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://fullhunt.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.netcraft.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://hunter.how/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ipinfo.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.ip2location.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.maxmind.com/en/home": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://breachdirectory.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://saucenao.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://viz.greynoise.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osint.oscarzulu.org/": {
+      "status": "WARN",
+      "info": "502 (serveur indisponible)"
+    },
+    "https://talosintelligence.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pic.sogou.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.pixsy.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://socialbearing.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://jimpl.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.fastpeoplesearch.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://exiftool.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://fotoforensics.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.truepeoplesearch.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.openstreetmap.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://neverbounce.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://29a.ch/photo-forensics/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.betaface.com/demo.html": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://lenso.ai/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bing.com/maps": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://lens.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.mapillary.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://peakvisor.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://kartaview.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://what3words.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.geoguessr.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.picuki.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://shademap.app/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://yandex.com/maps/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://zoom.earth/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://opensky-network.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://map.baidu.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.geonames.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.airnavradar.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://worldview.earthdata.nasa.gov/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.aishub.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://bitquery.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://bscscan.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.walletexplorer.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://polygonscan.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/RustScan/RustScan": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.google.com/mymaps": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/projectdiscovery/naabu": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/projectdiscovery/httpx": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/projectdiscovery/katana": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.abuseipdb.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://github.com/robertdavidgraham/masscan": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/projectdiscovery/nuclei": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/maurosoria/dirsearch": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/ffuf/ffuf": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/OJ/gobuster": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://apps.sentinel-hub.com/sentinel-playground/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://virusscan.jotti.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://openphish.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://flightaware.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.arkhamintelligence.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://urlhaus.abuse.ch/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://phishtank.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://leakcheck.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.zerobounce.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.hudsonrock.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://tria.ge/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://snusbase.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.aware-online.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/alpkeskin/mosint": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/megadose/OnionSearch": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://mxtoolbox.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.osintdojo.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.tracelabs.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.blockchain.com/explorer": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://bellingcat.gitbook.io/toolkit": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/jivoi/awesome-osint": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://planefinder.net/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://github.com/public-apis/public-apis": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.breadcrumbs.app/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://github.com/Ph055a/OSINT_Collection": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://commoncrawl.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.sans.org/blog/?focus-area=osint": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://web.archive.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://cachedview.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://archive.ph/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osintcurio.us/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://opencorporates.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.opensanctions.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sanctionssearch.ofac.treas.gov/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.sirene.fr/sirene/public/accueil": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://book.hacktricks.xyz/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.sanctionsmap.eu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://find-and-update.company-information.service.gov.uk/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.base-search.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://live.blockcypher.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.semanticscholar.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/search": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://scholar.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://arxiv.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/gitleaks/gitleaks": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/eth0izzle/shhgit": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://grep.app/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://searchcode.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/trufflesecurity/trufflehog": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://projects.propublica.org/nonprofits/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://offshoreleaks.icij.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.gdeltproject.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://hivemoderation.com/ai-generated-content-detection": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.data-is-plural.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://scanner.deepware.ai/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.documentcloud.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://threatfox.abuse.ch/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.aiornot.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://otx.alienvault.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://bazaar.abuse.ch/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sourcegraph.com/search": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.misp-project.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://certstream.calidog.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pulsedive.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://aleph.occrp.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://buckets.grayhatwarfare.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://phishstats.info/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/ElevenPaths/FOCA": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.criminalip.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/megadose/Ignorant": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.email-format.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/megadose/toutatis": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://rocketreach.co/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.yasni.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.sec.gov/edgar/search-and-access": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.opencti.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.peekyou.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.beenverified.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.researchgate.net/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.windy.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/JustAnotherArchivist/snscrape": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://nominatim.openstreetmap.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.cruisemapper.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://socialcatfish.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://wego.here.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://radaris.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.reddit.com/r/netsec/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://webmii.com/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://reversecontact.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dnstwister.report/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osint.sh/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.reddit.com/r/privacy/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://isc.sans.edu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://krebsonsecurity.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://cryptoscamdb.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dataspace.copernicus.eu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://lampyre.io/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://lyzem.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://whatcms.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://dnschecker.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://trends24.in/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://osint.industries/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://buzzsumo.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://thehackernews.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.circl.lu/services/passive-dns/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://passivedns.mnemonic.no/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sslbl.abuse.ch/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.shadowserver.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://feodotracker.abuse.ch/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.aperisolve.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://pixlr.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://monitor.firefox.com/": {
+      "status": "WARN",
+      "info": "406 (probable anti-bot)"
+    },
+    "https://freecarrierlookup.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://tweetbeaver.com/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://www.waze.com/live-map/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.similarweb.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.whitepages.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://earthengine.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://wigle.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://debank.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.bitcoinabuse.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://wikileaks.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.archives.gov/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://cybernews.com/personal-data-leak-check/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://stegonline.georgeom.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://search.brave.com/": {
+      "status": "OK",
+      "info": "200 [via TOR]"
+    },
+    "https://www.muckrock.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.getghiro.org/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://twitter.com/search-advanced": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.courtlistener.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://mapchecking.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.crunchbase.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.judyrecords.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.deepl.com/translator": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.torproject.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://feedly.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://huggingface.co/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.webpagetest.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://translate.yandex.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.gitguardian.com/monitor-public-github-for-secrets": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.whonix.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.privacyguides.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://news.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.transparency.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://meedan.com/check": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://sayari.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://taxjustice.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://offshoreleaks.icij.org/search": {
+      "status": "OK",
+      "info": "202"
+    },
+    "https://www.fincen.gov/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://defillama.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.sogou.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://vault.fbi.gov/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.bvdinfo.com/en-gb": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.naver.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.cia.gov/readingroom/": {
+      "status": "DEAD",
+      "info": "Exceeded 30 redirects."
+    },
+    "https://www.zhihu.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.nicovideo.jp/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://darknetlive.com/": {
+      "status": "OK",
+      "info": "202 [via TOR]"
+    },
+    "https://www.rambler.ru/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ok.ru/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.douyin.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.daum.net/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://weibo.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://risk.lexisnexis.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.albawaba.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.dasoertliche.de/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.xing.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.justia.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.perplexity.ai/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.fatf-gafi.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.panapress.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.authentic8.com/blog": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.forensicosint.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.gov.uk/check-mot-history": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.toddington.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://vpic.nhtsa.dot.gov/decoder/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://github.com/openai/whisper": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.easa.europa.eu/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.autocheck.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.openownership.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.redfin.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.pixiv.net/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.fon.hum.uva.nl/praat/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.gov.uk/search-property-information-land-registry": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://camas.unddit.com/": {
+      "status": "DEAD",
+      "info": "Connexion échouée"
+    },
+    "https://www.rightmove.co.uk/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://jakecreps.com/": {
+      "status": "WARN",
+      "info": "Erreur SSL (certificat invalide)"
+    },
+    "https://www.carfax.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.cadastre.gouv.fr/scpc/accueil.do": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.immobilier.notaires.fr/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://registry.faa.gov/aircraftinquiry/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://eksisozluk.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://hn.algolia.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://acleddata.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://desuarchive.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://ucdp.uu.se/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://liveuamap.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://reliefweb.int/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.sipri.org/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.yahoo.co.jp/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://medium.com/tag/osint": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.tmdn.org/tmview/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.uspto.gov/trademarks/search": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.nicb.org/vincheck": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://patents.google.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://crisis24.garda.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.zillow.com/": {
+      "status": "OK",
+      "info": "202 [via TOR]"
+    },
+    "https://disforge.com/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www3.wipo.int/branddb/en/": {
+      "status": "OK",
+      "info": "200"
+    },
+    "https://www.realtor.com/": {
+      "status": "WARN",
+      "info": "429 (probable anti-bot)"
+    },
+    "https://disboard.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://archive.4plebs.org/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.idealista.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://worldwide.espacenet.com/": {
+      "status": "WARN",
+      "info": "403 (accès restreint)"
+    },
+    "https://www.dnb.com/": {
+      "status": "DEAD",
+      "info": "Timeout"
+    }
+  }
+}

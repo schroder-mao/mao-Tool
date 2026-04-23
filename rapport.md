@@ -1,0 +1,526 @@
+# Rapport de vérification des liens
+
+- OK: 452
+- WARN: 59
+- DEAD: 2
+- SKIP: 0
+
+## DEAD (2)
+- [Copernicus Open Access](https://dataspace.copernicus.eu/) — Connexion échouée
+- [CIA Reading Room](https://www.cia.gov/readingroom/) — Exceeded 30 redirects.
+
+## WARN (59)
+- [Search Encrypt](https://www.searchencrypt.com) — Erreur SSL (certificat invalide)
+- [Dogpile](https://www.dogpile.com) — 403 (accès restreint)
+- [Instant Username Search](https://instantusername.com/) — 403 (accès restreint)
+- [Ecosia](https://www.ecosia.org) — 403 (accès restreint)
+- [WhatsMyName](https://whatsmyname.app/) — 464 (probable anti-bot)
+- [InVID / WeVerify](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/) — Erreur SSL (certificat invalide)
+- [BinaryEdge](https://www.binaryedge.io) — 403 (accès restreint)
+- [ZoomEye](https://www.zoomeye.org) — 521 (serveur indisponible)
+- [Netcat](https://netcat.sourceforge.net) — 403 (accès restreint)
+- [Chaosreader](http://chaosreader.sourceforge.net) — 403 (accès restreint)
+- [Email Permutator+](https://metricsparrow.com/toolkit/email-permutator/) — Erreur SSL (certificat invalide)
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/) — 403 (accès restreint)
+- [CallerSmart](https://www.callersmart.com/) — 403 (accès restreint)
+- [emailhippo](https://tools.emailhippo.com/) — 403 (accès restreint)
+- [MarineTraffic](https://www.marinetraffic.com/) — 403 (accès restreint)
+- [NeverBounce](https://neverbounce.com/) — 403 (accès restreint)
+- [Forum OSINT (SecCodeID)](https://forum.seccodeid.com/category/osint) — 403 (accès restreint)
+- [breachdirectory](https://breachdirectory.org/) — 403 (accès restreint)
+- [FastPeopleSearch](https://www.fastpeoplesearch.com/) — 403 (accès restreint)
+- [OscarZulu](https://osint.oscarzulu.org/) — 502 (serveur indisponible)
+- [TruePeopleSearch](https://www.truepeoplesearch.com/) — 403 (accès restreint)
+- [Picuki](https://www.picuki.com/) — 403 (accès restreint)
+- [AbuseIPDB](https://www.abuseipdb.com/) — 403 (accès restreint)
+- [Planefinder](https://planefinder.net/) — 403 (accès restreint)
+- [Blockchain.com Explorer](https://www.blockchain.com/explorer) — 403 (accès restreint)
+- [BlockCypher](https://live.blockcypher.com/) — 403 (accès restreint)
+- [Breadcrumbs](https://www.breadcrumbs.app/) — 403 (accès restreint)
+- [ResearchGate](https://www.researchgate.net/) — 403 (accès restreint)
+- [EDGAR (SEC)](https://www.sec.gov/edgar/search-and-access) — 403 (accès restreint)
+- [Firefox Monitor](https://monitor.firefox.com/) — 406 (probable anti-bot)
+- [DNS Checker](https://dnschecker.org/) — 403 (accès restreint)
+- [FreeCarrierLookup](https://freecarrierlookup.com/) — 403 (accès restreint)
+- [Cybernews Leak Checker](https://cybernews.com/personal-data-leak-check/) — 403 (accès restreint)
+- [Ghiro](https://www.getghiro.org/) — Erreur SSL (certificat invalide)
+- [WebPageTest](https://www.webpagetest.org/) — 403 (accès restreint)
+- [DeFiLlama](https://defillama.com/) — 403 (accès restreint)
+- [FBI Vault](https://vault.fbi.gov/) — 403 (accès restreint)
+- [Justia](https://www.justia.com/) — 403 (accès restreint)
+- [Perplexity](https://www.perplexity.ai/) — 403 (accès restreint)
+- [FATF (GAFI)](https://www.fatf-gafi.org/) — 403 (accès restreint)
+- [LexisNexis Risk Solutions](https://risk.lexisnexis.com/) — 403 (accès restreint)
+- [Open Ownership](https://www.openownership.org/) — 403 (accès restreint)
+- [Pixiv](https://www.pixiv.net/) — 403 (accès restreint)
+- [Ekşi Sözlük](https://eksisozluk.com/) — 403 (accès restreint)
+- [Jake Creps Blog](https://jakecreps.com/) — Erreur SSL (certificat invalide)
+- [Yahoo! Japan](https://www.yahoo.co.jp/) — 403 (accès restreint)
+- [Medium #OSINT](https://medium.com/tag/osint) — 403 (accès restreint)
+- [NICB VIN Check](https://www.nicb.org/vincheck) — 403 (accès restreint)
+- [Realtor.com](https://www.realtor.com/) — 429 (probable anti-bot)
+- [4plebs (archive 4chan)](https://archive.4plebs.org/) — 403 (accès restreint)
+- [Dun & Bradstreet](https://www.dnb.com/) — 403 (accès restreint) [via TOR]
+- [Disboard](https://disboard.org/) — 403 (accès restreint)
+- [Idealista](https://www.idealista.com/) — 403 (accès restreint)
+- [Espacenet](https://worldwide.espacenet.com/) — 403 (accès restreint)
+- [10 Minute Mail](https://10minutemail.com/) — 403 (accès restreint)
+- [Temp-Mail](https://temp-mail.org/) — 403 (accès restreint)
+- [SMS24](https://sms24.me/) — 403 (accès restreint)
+- [Temp Number](https://temp-number.com/) — 403 (accès restreint)
+- [Revolut Cartes Virtuelles](https://www.revolut.com/) — 403 (accès restreint)
+
+## OK (452)
+- [DuckDuckGo](https://duckduckgo.com) — 200
+- [Ask](https://www.ask.com) — 200
+- [Qwant](https://www.qwant.com) — 200
+- [StartPage](https://www.startpage.com) — 200
+- [Mojeek](https://www.mojeek.com) — 200
+- [Yahoo](https://www.yahoo.com) — 200
+- [Google Dataset Search](https://datasetsearch.research.google.com/) — 200
+- [Bing](https://www.bing.com) — 200
+- [Sherlock](https://github.com/sherlock-project/sherlock) — 200
+- [Maigret](https://github.com/soxoj/maigret) — 200
+- [Baidu](https://www.baidu.com) — 200
+- [Swisscows](https://www.swisscows.com) — 200
+- [Yandex](https://www.yandex.com) — 200
+- [Usersearch.org](https://usersearch.org) — 200
+- [Google](https://google.com) — 200
+- [Gibiru](https://www.gibiru.com) — 200
+- [Pipl](https://pipl.com) — 200
+- [WolframAlpha](https://www.wolframalpha.com) — 200
+- [Reddit](https://www.reddit.com) — 200
+- [Namechk](https://namechk.com) — 200
+- [Facebook](https://www.facebook.com) — 200
+- [LinkedIn](https://www.linkedin.com) — 200
+- [Alfred](https://github.com/Alfredredbird/alfred) — 200
+- [Snapchat](https://www.snapchat.com) — 200
+- [Pinterest](https://www.pinterest.com) — 200
+- [Telegram](https://telegram.org) — 200
+- [Osintgram](https://github.com/Datalux/Osintgram) — 200
+- [Instagram](https://www.instagram.com) — 200
+- [WhatsApp](https://www.whatsapp.com) — 200
+- [Shodan](https://www.shodan.io) — 200
+- [Onyphe](https://www.onyphe.io) — 200
+- [TwitterId](https://commentpicker.com/) — 200
+- [Twitter](https://twitter.com) — 200
+- [Censys](https://censys.io) — 200
+- [Fofa](https://fofa.so) — 200
+- [Circl](https://www.circl.lu) — 200
+- [PublicWWW](https://publicwww.com) — 200
+- [TikTok](https://www.tiktok.com) — 200
+- [VKontakte (VK)](https://vk.com) — 200
+- [Hunchly](https://hunch.ly) — 200
+- [OSINT Compass Portal](https://osint-compass-portal.onrender.com/) — 200
+- [FoFa (EN)](https://en.fofa.info/) — 200
+- [MMNT](https://www.mmnt.ru/) — 200
+- [KakaoTalk](https://www.kakaocorp.com/service/KakaoTalk) — 200
+- [Line](https://line.me) — 200
+- [ViewDNS](https://viewdns.info/) — 200
+- [Dotdb](https://dotdb.com/) — 200
+- [Google Images](https://www.google.com/imghp) — 200
+- [Reverse Image Search](https://reverse.photos) — 200
+- [TinEye](https://tineye.com) — 200
+- [SecurityTrails](https://securitytrails.com/) — 200
+- [Berify](https://berify.com) — 200
+- [IntelX](https://intelx.io) — 200
+- [Amass](https://github.com/owasp-amass/amass) — 200
+- [Yandex Images](https://yandex.com/images) — 200
+- [Subfinder](https://github.com/projectdiscovery/subfinder) — 200
+- [Bing Images](https://www.bing.com/images/feed) — 200
+- [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro) — 200
+- [Leaflet](https://leafletjs.com/) — 200
+- [ArcGIS Online](https://www.arcgis.com/index.html) — 200
+- [QGIS](https://qgis.org/) — 200
+- [Carto](https://carto.com/) — 200
+- [ImgOps](https://imgops.com) — 200
+- [Overpass Turbo](https://overpass-turbo.eu/) — 200
+- [MapWindow](https://www.mapwindow.org/) — 200
+- [GeoDa](https://geodacenter.github.io/) — 200
+- [SunCalc](https://www.suncalc.org/) — 200
+- [Wikimapia](https://wikimapia.org/) — 200
+- [OpenLayers](https://openlayers.org/) — 200
+- [EO Browser](https://apps.sentinel-hub.com/eo-browser/) — 200
+- [GeoServer](http://geoserver.org/) — 200
+- [Metadefender](https://metadefender.opswat.com) — 200
+- [ANY.RUN](https://any.run) — 200
+- [PDF Analyser](http://pdf-analyser.edpsciences.org/) — 200
+- [FileSearching](http://www.filesearching.com/) — 200
+- [Intezer Analyze](https://analyze.intezer.com) — 200
+- [Joe Sandbox](https://www.joesandbox.com) — 200
+- [PimEyes](https://pimeyes.com) — 200
+- [Koodous](https://koodous.com) — 200
+- [Academic Torrents](https://academictorrents.com/) — 200
+- [MalShare](https://malshare.com) — 200
+- [PDF24 Extract Images](https://tools.pdf24.org/en/extract-images) — 200
+- [Hybrid Analysis](https://www.hybrid-analysis.com) — 200
+- [VirusTotal](https://www.virustotal.com) — 200
+- [Pastebin](https://pastebin.com) — 200
+- [URLSANDBOX](https://www.browserling.com/browser-sandbox) — 200
+- [4shared](https://www.4shared.com/) — 200
+- [URLVoid](https://www.urlvoid.com) — 200
+- [Email Extraction](https://chromewebstore.google.com/detail/email-extraction/ejecpjcajdpbjbmlcojcohgenjngflac) — 200
+- [Square](https://sqrx.com/) — 200
+- [Ip Address and Domain info](https://chromewebstore.google.com/detail/ip-address-and-domain-inf/lhgkegeccnckoiliokondpaaalbhafoa) — 200
+- [Search by Image](https://chromewebstore.google.com/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci) — 200
+- [Double Shot Search](https://chromewebstore.google.com/detail/kddlkbpbepnaepdleclhdnfdpdogdhop) — 200
+- [Wireshark](https://www.wireshark.org) — 200
+- [Ghostery](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij?hl=en) — 200
+- [Privacy Badger](https://chromewebstore.google.com/detail/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) — 200
+- [Socat](http://www.dest-unreach.org/socat) — 200
+- [Sputnik](https://chromewebstore.google.com/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd) — 200
+- [uBlock Origin](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) — 200
+- [Wayback Machine](https://chromewebstore.google.com/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak) — 200
+- [Wappalyzer](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) — 200
+- [FullOsintToolBookmarks](https://www.osintcombine.com/_files/archives/f4abec_8a3a7a6c11b147de9896a13184d4c735.zip?dn=bookmarks_1_17_24.zip) — 200
+- [Unpaywall](https://chromewebstore.google.com/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) — 200
+- [Tcpdump](https://www.tcpdump.org) — 200
+- [Ettercap](https://www.ettercap-project.org) — 200
+- [ZMap](https://zmap.io) — 200
+- [Nmap](https://nmap.org) — 200
+- [Hping](https://github.com/antirez/hping) — 200
+- [Maltego](https://www.maltego.com) — 200
+- [Snort](https://www.snort.org) — 200
+- [OSINT Framework](https://osintframework.com) — 200
+- [Bro / Zeek](https://www.bro.org) — 200
+- [theHarvester](https://github.com/laramies/theHarvester) — 200
+- [IntelTechniques](https://inteltechniques.com) — 200
+- [SpiderFoot](https://www.spiderfoot.net) — 200
+- [Creepy](https://github.com/ilektrojohn/creepy) — 200
+- [Social Mapper](https://github.com/Greenwolf/social_mapper) — 200
+- [Tinfoleak](https://github.com/vaguileradiaz/tinfoleak) — 200
+- [Ahmia](https://ahmia.fi) — 200
+- [OSINT Combine](https://osintcombine.com) — 200
+- [Darkstat](https://unix4lyfe.org/darkstat) — 200
+- [Awario](https://awario.com/) — 200
+- [Humdata](https://data.humdata.org/) — 200
+- [Social Searcher](https://www.social-searcher.com/) — 200
+- [DarkWeb Link](https://darkweb.link/) — 200
+- [MaltegoTelegramScraper](https://github.com/Ost4r4/MaltegoTelegramScraper) — 200
+- [Dark.fail](https://dark.fail/) — 200
+- [Social Analyzer](https://github.com/qeeqbox/social-analyzer) — 200
+- [Onion.Live](https://onion.live/) — 200
+- [RebirthOnionSearchMaltego](https://github.com/Ost4r4/RebirthOnionSearchMaltego) — 200
+- [Tor Metrics](https://metrics.torproject.org/) — 200
+- [Truecaller](https://www.truecaller.com/) — 200
+- [OnionScan](https://onionscan.org/) — 200
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) — 200
+- [Tails](https://tails.boum.org/) — 200
+- [PhoneInfoga](https://github.com/sundowndev/phoneinfoga) — 200
+- [BookmarksOnionLinks](https://www.osintcombine.com/_files/archives/c17c29_45075dc650e94c8f83d526e64ff0e63e.zip?dn=bookmarks-tor.zip) — 200
+- [DarkSearch for Maltego](https://www.paterva.com/web7/downloads/capes/ToR-SearchTransformGuide.pdf) — 200
+- [Sync.ME](https://sync.me/) — 200
+- [NumLookup](https://www.numlookup.com/) — 200
+- [Spokeo](https://www.spokeo.com/) — 200
+- [Hunter](https://hunter.io) — 200
+- [Spy Dialer](https://www.spydialer.com/) — 200
+- [NumVerify](https://numverify.com/) — 200
+- [Onion Search Engine](https://onionsearchengine.com/) — 200 [via TOR]
+- [Snov.io](https://snov.io) — 200
+- [Emailrep.io](https://emailrep.io) — 200
+- [Epieos](https://epieos.com/) — 200
+- [Whoscall](https://whoscall.com/) — 200
+- [OnionLand](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion) — 200 [TOR]
+- [Profil3r](https://github.com/Greyjedix/Profil3r) — 200
+- [BioID](https://www.bioid.com) — 200
+- [GHunt](https://github.com/mxrch/GHunt) — 200
+- [Skrapp](https://www.skrapp.io) — 200
+- [FaceCheck.id](https://facecheck.id/) — 200
+- [holehe](https://github.com/megadose/holehe) — 200
+- [TrueFace](https://www.trueface.ai) — 200
+- [email checker](https://email-checker.net/check) — 200
+- [Clearbit Connect](https://clearbit.com/connect) — 200
+- [FaceFirst](https://www.facefirst.com) — 200
+- [ADS-B Exchange](https://www.adsbexchange.com/) — 200
+- [OpenALPR](https://www.openalpr.com) — 200
+- [Sightcorp](https://sightcorp.com) — 200
+- [Vaxtor](https://www.vaxtor.com) — 200
+- [FlightRadar24](https://www.flightradar24.com/) — 200
+- [Plate Recognizer](https://platerecognizer.com) — 200
+- [OCR.space](https://ocr.space) — 200
+- [Face++](https://www.faceplusplus.com) — 200
+- [VesselFinder](https://www.vesselfinder.com/) — 200
+- [VerifyEmailAddress.org](https://verifyemailaddress.org/) — 200
+- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — 200
+- [Tipsgeo](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/) — 200
+- [Bellingcat guides](https://www.bellingcat.com/category/resources/how-tos/) — 200
+- [Militarybasetuto.1](https://www.mil-airfields.de/index-en.html) — 200
+- [Etherscan](https://etherscan.io/) — 200
+- [Bellingcat](https://www.bellingcat.com) — 200
+- [OpenDataNetwork](https://www.opendatanetwork.com/) — 200
+- [Subreddit OSINT](https://www.reddit.com/r/OSINT/) — 200
+- [Google Cloud Vision](https://cloud.google.com/vision) — 200
+- [ABBYY FineReader](https://www.abbyy.com/en-us/finereader/) — 200
+- [haveibeenpwned](https://haveibeenpwned.com/) — 200
+- [Dehashed](https://dehashed.com) — 200
+- [Chainabuse](https://www.chainabuse.com/) — 200
+- [LeakPeek](https://leakpeek.com/) — 200
+- [Ozint](https://ozint.eu/) — 200
+- [Militarybasetuto.2](https://historyhub.history.gov/military-records/b/military-records-blog/posts/researching-satellite-photography) — 200
+- [pwnedOrNot](https://github.com/thewhiteh4t/pwnedOrNot) — 200
+- [Snoop Project](https://github.com/snooppr/snoop) — 200
+- [Socid-extractor](https://github.com/soxoj/socid-extractor) — 200
+- [Distributed Denial of Secrets (DDOS)](https://ddosecrets.com) — 200
+- [Botometer](https://botometer.osome.iu.edu/) — 200
+- [Hoaxy](https://hoaxy.osome.iu.edu/) — 200
+- [Instaloader](https://github.com/instaloader/instaloader) — 200
+- [Username Buddy](https://usernamebuddy.com/) — 200 [via TOR]
+- [DNSDumpster](https://dnsdumpster.com/) — 200
+- [SnapMap](https://map.snapchat.com/) — 200
+- [DomainTools WHOIS](https://whois.domaintools.com/) — 200
+- [who.is](https://who.is/) — 200
+- [URLScan.io](https://urlscan.io/) — 200
+- [Netlas](https://netlas.io/) — 200
+- [ThatsThem](https://thatsthem.com/) — 200
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — 200
+- [BuiltWith](https://builtwith.com/) — 200
+- [LeakIX](https://leakix.net/) — 200
+- [FullHunt](https://fullhunt.io/) — 200
+- [Netcraft](https://www.netcraft.com/) — 200
+- [IPinfo](https://ipinfo.io/) — 200
+- [Pixsy](https://www.pixsy.com/) — 200
+- [Hunter How](https://hunter.how/) — 200
+- [IP2Location](https://www.ip2location.com/) — 200
+- [Jimpl](https://jimpl.com/) — 200
+- [GreyNoise](https://viz.greynoise.io/) — 200
+- [MaxMind GeoIP](https://www.maxmind.com/en/home) — 200
+- [SauceNAO](https://saucenao.com/) — 200
+- [SocialBearing](https://socialbearing.com/) — 200
+- [Forensically](https://29a.ch/photo-forensics/) — 200
+- [ExifTool](https://exiftool.org/) — 200
+- [FotoForensics](https://fotoforensics.com/) — 200
+- [Google Lens](https://lens.google.com/) — 200
+- [OpenStreetMap](https://www.openstreetmap.org/) — 200
+- [Betaface](https://www.betaface.com/demo.html) — 200
+- [Lenso.ai](https://lenso.ai/) — 200
+- [Bing Maps](https://www.bing.com/maps) — 200
+- [Sogou Images](https://pic.sogou.com/) — 200
+- [Talos Intelligence](https://talosintelligence.com/) — 200
+- [PeakVisor](https://peakvisor.com/) — 200
+- [What3Words](https://what3words.com/) — 200
+- [GeoNames](https://www.geonames.org/) — 200
+- [Yandex Maps](https://yandex.com/maps/) — 200
+- [Zoom Earth](https://zoom.earth/) — 200
+- [Mapillary](https://www.mapillary.com/) — 200
+- [ShadeMap](https://shademap.app/) — 200
+- [GeoGuessr](https://www.geoguessr.com/) — 200
+- [KartaView](https://kartaview.org/) — 200
+- [OpenSky Network](https://opensky-network.org/) — 200
+- [AirNav Radar](https://www.airnavradar.com/) — 200
+- [AIS Hub](https://www.aishub.net/) — 200
+- [Baidu Maps](https://map.baidu.com/) — 200
+- [NASA Worldview](https://worldview.earthdata.nasa.gov/) — 200
+- [Bitquery](https://bitquery.io/) — 200
+- [BscScan](https://bscscan.com/) — 200
+- [WalletExplorer](https://www.walletexplorer.com/) — 200
+- [Sentinel Hub Playground](https://apps.sentinel-hub.com/sentinel-playground/) — 200
+- [PolygonScan](https://polygonscan.com/) — 200
+- [Google My Maps](https://www.google.com/mymaps) — 200
+- [FlightAware](https://flightaware.com/) — 200
+- [Masscan](https://github.com/robertdavidgraham/masscan) — 200
+- [Jotti](https://virusscan.jotti.org/) — 200
+- [URLhaus](https://urlhaus.abuse.ch/) — 200
+- [ffuf](https://github.com/ffuf/ffuf) — 200
+- [Naabu](https://github.com/projectdiscovery/naabu) — 200
+- [Nuclei](https://github.com/projectdiscovery/nuclei) — 200
+- [Katana](https://github.com/projectdiscovery/katana) — 200
+- [Gobuster](https://github.com/OJ/gobuster) — 200
+- [RustScan](https://github.com/RustScan/RustScan) — 200
+- [Arkham Intelligence](https://www.arkhamintelligence.com/) — 200
+- [dirsearch](https://github.com/maurosoria/dirsearch) — 200
+- [Triage (Hatching)](https://tria.ge/) — 200
+- [Snusbase](https://snusbase.com/) — 200
+- [OpenPhish](https://openphish.com/) — 200
+- [Hudson Rock](https://www.hudsonrock.com/) — 200
+- [PhishTank](https://phishtank.org/) — 200
+- [LeakCheck](https://leakcheck.io/) — 200
+- [httpx](https://github.com/projectdiscovery/httpx) — 200
+- [ZeroBounce](https://www.zerobounce.net/) — 200
+- [MxToolbox](https://mxtoolbox.com/) — 200
+- [Aware Online](https://www.aware-online.com/) — 200
+- [Mosint](https://github.com/alpkeskin/mosint) — 200
+- [OnionSearch (CLI)](https://github.com/megadose/OnionSearch) — 200
+- [Trace Labs](https://www.tracelabs.org/) — 200
+- [OSINT Dojo](https://www.osintdojo.com/) — 200
+- [Bellingcat Online Toolkit](https://bellingcat.gitbook.io/toolkit) — 200
+- [OSINT Curious](https://osintcurio.us/) — 200
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) — 200
+- [Archive.today](https://archive.ph/) — 200
+- [Common Crawl](https://commoncrawl.org/) — 200
+- [Ph055a OSINT Collection](https://github.com/Ph055a/OSINT_Collection) — 200
+- [SANS OSINT Blog](https://www.sans.org/blog/?focus-area=osint) — 200
+- [Wayback Machine](https://web.archive.org/) — 200
+- [Public APIs (catalog)](https://github.com/public-apis/public-apis) — 200
+- [CachedView](https://cachedview.com/) — 200
+- [HackTricks](https://book.hacktricks.xyz/) — 200
+- [EU Sanctions Map](https://www.sanctionsmap.eu/) — 200
+- [Sirene (France)](https://www.sirene.fr/sirene/public/accueil) — 200
+- [OpenSanctions](https://www.opensanctions.org/) — 200
+- [OFAC Sanctions Search](https://sanctionssearch.ofac.treas.gov/) — 200
+- [BASE Search](https://www.base-search.net/) — 200
+- [OpenCorporates](https://opencorporates.com/) — 200
+- [Companies House (UK)](https://find-and-update.company-information.service.gov.uk/) — 200
+- [Semantic Scholar](https://www.semanticscholar.org/) — 200
+- [Google Scholar](https://scholar.google.com/) — 200
+- [GitHub Code Search](https://github.com/search) — 200
+- [ICIJ OffshoreLeaks](https://offshoreleaks.icij.org/) — 200
+- [arXiv](https://arxiv.org/) — 200
+- [grep.app](https://grep.app/) — 200
+- [TruffleHog](https://github.com/trufflesecurity/trufflehog) — 200
+- [Gitleaks](https://github.com/gitleaks/gitleaks) — 200
+- [Deepware AI Scanner](https://scanner.deepware.ai/) — 200
+- [Data Is Plural](https://www.data-is-plural.com/) — 200
+- [GDELT Project](https://www.gdeltproject.org/) — 200
+- [Hive AI Content Detection](https://hivemoderation.com/ai-generated-content-detection) — 200
+- [Searchcode](https://searchcode.com/) — 200
+- [shhgit](https://github.com/eth0izzle/shhgit) — 200
+- [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) — 200
+- [OCCRP Aleph](https://aleph.occrp.org/) — 200
+- [ThreatFox](https://threatfox.abuse.ch/) — 200
+- [DocumentCloud](https://www.documentcloud.org/) — 200
+- [MalwareBazaar](https://bazaar.abuse.ch/) — 200
+- [MISP Project](https://www.misp-project.org/) — 200
+- [AI or Not](https://www.aiornot.com/) — 200
+- [Pulsedive](https://pulsedive.com/) — 200
+- [AlienVault OTX](https://otx.alienvault.com/) — 200
+- [Sourcegraph](https://sourcegraph.com/search) — 200
+- [GrayhatWarfare Buckets](https://buckets.grayhatwarfare.com/) — 200
+- [PhishStats](https://phishstats.info/) — 200
+- [OpenCTI](https://www.opencti.io/) — 200
+- [Ignorant](https://github.com/megadose/Ignorant) — 200
+- [Certstream](https://certstream.calidog.io/) — 200
+- [Email Format](https://www.email-format.com/) — 200
+- [Toutatis](https://github.com/megadose/toutatis) — 200
+- [Yasni](https://www.yasni.com/) — 200
+- [PeekYou](https://www.peekyou.com/) — 200
+- [Webmii](https://webmii.com/) — 200
+- [FOCA](https://github.com/ElevenPaths/FOCA) — 200
+- [RocketReach](https://rocketreach.co/) — 200
+- [BeenVerified](https://www.beenverified.com/) — 200
+- [CruiseMapper](https://www.cruisemapper.com/) — 200
+- [Windy](https://www.windy.com/) — 200
+- [HERE Maps (Wego)](https://wego.here.com/) — 200
+- [Nominatim (OSM)](https://nominatim.openstreetmap.org/) — 200
+- [snscrape](https://github.com/JustAnotherArchivist/snscrape) — 200
+- [Radaris](https://radaris.com/) — 200
+- [SocialCatfish](https://socialcatfish.com/) — 200
+- [r/privacy](https://www.reddit.com/r/privacy/) — 200
+- [OSINT.SH](https://osint.sh/) — 200
+- [r/netsec](https://www.reddit.com/r/netsec/) — 200
+- [Reverse Contact](https://reversecontact.com/) — 200
+- [Krebs on Security](https://krebsonsecurity.com/) — 200
+- [DNSTwister](https://dnstwister.report/) — 200
+- [CryptoScamDB](https://cryptoscamdb.org/) — 200
+- [Lampyre](https://lampyre.io/) — 200
+- [SANS Internet Storm Center](https://isc.sans.edu/) — 200
+- [The Hacker News](https://thehackernews.com/) — 200
+- [WhatCMS](https://whatcms.org/) — 200
+- [Trends24](https://trends24.in/) — 200
+- [OSINT Industries](https://osint.industries/) — 200
+- [Lyzem (Telegram)](https://lyzem.com/) — 200
+- [BuzzSumo](https://buzzsumo.com/) — 200
+- [Mnemonic Passive DNS](https://passivedns.mnemonic.no/) — 200
+- [CIRCL Passive DNS](https://www.circl.lu/services/passive-dns/) — 200
+- [Feodo Tracker](https://feodotracker.abuse.ch/) — 200
+- [SSL Blacklist (abuse.ch)](https://sslbl.abuse.ch/) — 200
+- [Brave Search](https://search.brave.com/) — 200
+- [Aperi'Solve](https://www.aperisolve.com/) — 200
+- [Shadowserver](https://www.shadowserver.org/) — 200
+- [Twitter Advanced Search](https://twitter.com/search-advanced) — 200
+- [Pixlr](https://pixlr.com/) — 200
+- [SimilarWeb](https://www.similarweb.com/) — 200
+- [TweetBeaver](https://tweetbeaver.com/) — 200
+- [Waze Live Map](https://www.waze.com/live-map/) — 200
+- [Google Earth Engine](https://earthengine.google.com/) — 200
+- [StegOnline](https://stegonline.georgeom.net/) — 200
+- [Wigle](https://wigle.net/) — 200
+- [National Archives (US)](https://www.archives.gov/) — 200
+- [Whitepages](https://www.whitepages.com/) — 200
+- [BitcoinAbuse](https://www.bitcoinabuse.com/) — 200
+- [WikiLeaks](https://wikileaks.org/) — 200
+- [DeBank](https://debank.com/) — 200
+- [MapChecking](https://mapchecking.com/) — 200
+- [Feedly](https://feedly.com/) — 200
+- [MuckRock](https://www.muckrock.com/) — 200
+- [JudyRecords](https://www.judyrecords.com/) — 200
+- [CourtListener](https://www.courtlistener.com/) — 200
+- [Hugging Face](https://huggingface.co/) — 200
+- [Google News](https://news.google.com/) — 200
+- [DeepL](https://www.deepl.com/translator) — 200
+- [Tor Browser](https://www.torproject.org/) — 200
+- [Yandex Translate](https://translate.yandex.com/) — 200
+- [Crunchbase](https://www.crunchbase.com/) — 200
+- [GitGuardian Public](https://www.gitguardian.com/monitor-public-github-for-secrets) — 200
+- [Whonix](https://www.whonix.org/) — 200
+- [Meedan Check](https://meedan.com/check) — 200
+- [Transparency International](https://www.transparency.org/) — 200
+- [Privacy Guides](https://www.privacyguides.org/) — 200
+- [Sayari Graph](https://sayari.com/) — 200
+- [Tax Justice Network](https://taxjustice.net/) — 200
+- [Offshore Leaks (ICIJ)](https://offshoreleaks.icij.org/search) — 202
+- [Criminal IP](https://www.criminalip.io/) — 200
+- [FinCEN](https://www.fincen.gov/) — 200
+- [Bureau van Dijk (Moody's)](https://www.bvdinfo.com/en-gb) — 200
+- [Naver](https://www.naver.com/) — 200
+- [OK.ru (Odnoklassniki)](https://ok.ru/) — 200
+- [Rambler](https://www.rambler.ru/) — 200
+- [Sogou](https://www.sogou.com/) — 200
+- [Nico Nico Douga](https://www.nicovideo.jp/) — 200
+- [XING](https://www.xing.com/) — 200
+- [Zhihu](https://www.zhihu.com/) — 200
+- [Das Örtliche](https://www.dasoertliche.de/) — 200
+- [PanaPress](https://www.panapress.com/) — 200
+- [DarkNet Live](https://darknetlive.com/) — 202 [via TOR]
+- [Douyin](https://www.douyin.com/) — 200
+- [Al Bawaba](https://www.albawaba.com/) — 200
+- [Forensic OSINT (Ritu Gill)](https://www.forensicosint.com/) — 200
+- [Weibo](https://weibo.com/) — 200
+- [Authentic8 OSINT Blog](https://www.authentic8.com/blog) — 200
+- [DVLA MOT History (UK)](https://www.gov.uk/check-mot-history) — 200
+- [Daum](https://www.daum.net/) — 200
+- [Toddington International](https://www.toddington.com/) — 200
+- [NHTSA VIN Decoder](https://vpic.nhtsa.dot.gov/decoder/) — 200
+- [EASA](https://www.easa.europa.eu/) — 200
+- [PRAAT](https://www.fon.hum.uva.nl/praat/) — 200
+- [AutoCheck](https://www.autocheck.com/) — 200
+- [UK Land Registry](https://www.gov.uk/search-property-information-land-registry) — 200
+- [OpenAI Whisper](https://github.com/openai/whisper) — 200
+- [Rightmove (UK)](https://www.rightmove.co.uk/) — 200
+- [Redfin](https://www.redfin.com/) — 200
+- [Immobilier Notaires (FR)](https://www.immobilier.notaires.fr/) — 200
+- [ACLED](https://acleddata.com/) — 200
+- [HackerNews (Algolia)](https://hn.algolia.com/) — 200
+- [Cadastre France](https://www.cadastre.gouv.fr/scpc/accueil.do) — 200
+- [Carfax](https://www.carfax.com/) — 200
+- [FAA Aircraft Inquiry](https://registry.faa.gov/aircraftinquiry/) — 200
+- [Desuarchive](https://desuarchive.org/) — 200
+- [ReliefWeb (ONU OCHA)](https://reliefweb.int/) — 200
+- [DISFORGE](https://disforge.com/) — 200
+- [Uppsala Conflict Data Program](https://ucdp.uu.se/) — 200
+- [Zillow](https://www.zillow.com/) — 202 [via TOR]
+- [SIPRI](https://www.sipri.org/) — 200
+- [Live UA Map](https://liveuamap.com/) — 200
+- [USPTO TESS](https://www.uspto.gov/trademarks/search) — 200
+- [EUIPO TMview](https://www.tmdn.org/tmview/) — 200
+- [Reveddit](https://www.reveddit.com/) — 200
+- [Google Patents](https://patents.google.com/) — 200
+- [Suricata](https://suricata.io/download/) — 202 [via TOR]
+- [Guerrilla Mail](https://www.guerrillamail.com/) — 200
+- [Maildrop](https://maildrop.cc/) — 200
+- [YOPmail](https://yopmail.com/) — 200
+- [WIPO Global Brand DB](https://www3.wipo.int/branddb/en/) — 200
+- [Crisis24](https://crisis24.garda.com/) — 200
+- [SimpleLogin](https://simplelogin.io/) — 200
+- [Firefox Relay](https://relay.firefox.com/) — 200
+- [Mailinator](https://www.mailinator.com/) — 200
+- [Receive SMS Online](https://receive-sms-online.info/) — 200
+- [addy.io](https://addy.io/) — 200
+- [OnlineSim](https://onlinesim.io/) — 200
+- [TextNow](https://www.textnow.com/) — 200
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) — 200
+- [crt.sh](https://crt.sh/) — 200 [via TOR]
+- [Generated Photos](https://generated.photos/) — 200
+- [Fake Name Generator](https://www.fakenamegenerator.com/) — 200
+- [Quackr](https://quackr.io/) — 200
+- [Privacy.com](https://privacy.com/) — 200
+

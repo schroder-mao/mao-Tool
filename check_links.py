@@ -252,9 +252,22 @@ def main():
         for name, url, _, info in dead:
             print(f"  - {name}: {url} ({info})")
 
+    if args.file.endswith(".json"):
+        overrides = json.loads(Path(args.file).read_text(encoding="utf-8")).get("status_overrides", {})
+        if overrides:
+            patched = []
+            for name, url, status, info in results:
+                o = overrides.get(url)
+                if o:
+                    patched.append((name, url, o.get("status", status), o.get("info", info)))
+                else:
+                    patched.append((name, url, status, info))
+            results = patched
+            print(f"\n{len(overrides)} overrides appliqués")
+
     if args.output:
         write_report(args.output, results)
-        print(f"\nRapport écrit dans {args.output}")
+        print(f"Rapport écrit dans {args.output}")
     if args.status_json:
         write_status_json(args.status_json, results)
         print(f"Status JSON écrit dans {args.status_json}")

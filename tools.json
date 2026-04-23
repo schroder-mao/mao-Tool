@@ -4812,5 +4812,15 @@
         "account"
       ]
     }
-  ]
+  ],
+  "status_overrides": {
+    "https://www.cia.gov/readingroom/": {
+      "status": "OK",
+      "info": "marche en navigateur (redirect loop côté script)"
+    },
+    "https://dataspace.copernicus.eu/": {
+      "status": "OK",
+      "info": "marche en navigateur (bloque IP datacenter)"
+    }
+  }
 }

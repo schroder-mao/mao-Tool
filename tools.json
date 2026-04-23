@@ -209,6 +209,11 @@
       "id": "ip-trademarks",
       "name": "Propriété Intellectuelle",
       "emoji": "®️"
+    },
+    {
+      "id": "burners",
+      "name": "Burners & Identités Temporaires",
+      "emoji": "🎭"
     }
   ],
   "tools": [
@@ -4623,6 +4628,189 @@
       "category": "forums-archives",
       "type": "web",
       "tags": []
+    },
+    {
+      "name": "Temp-Mail",
+      "url": "https://temp-mail.org/",
+      "description": "E-mail jetable instantané, pas d'inscription.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "10 Minute Mail",
+      "url": "https://10minutemail.com/",
+      "description": "Adresse valide 10 minutes, renouvelable.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Guerrilla Mail",
+      "url": "https://www.guerrillamail.com/",
+      "description": "E-mail jetable avec possibilité d'envoyer aussi (pas juste recevoir).",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Maildrop",
+      "url": "https://maildrop.cc/",
+      "description": "Inbox publique jetable, choisis ton adresse.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "YOPmail",
+      "url": "https://yopmail.com/",
+      "description": "Inbox permanente par alias, sans inscription.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Mailinator",
+      "url": "https://www.mailinator.com/",
+      "description": "Inbox publique accessible par n'importe qui avec le nom.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Firefox Relay",
+      "url": "https://relay.firefox.com/",
+      "description": "Alias Mozilla qui redirigent vers ton vrai e-mail (5 gratuits).",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium",
+        "account"
+      ]
+    },
+    {
+      "name": "SimpleLogin",
+      "url": "https://simplelogin.io/",
+      "description": "Alias e-mail avec réponses anonymes, par ProtonMail.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium",
+        "account"
+      ]
+    },
+    {
+      "name": "addy.io",
+      "url": "https://addy.io/",
+      "description": "Service d'alias open source (ex-AnonAddy).",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium",
+        "account"
+      ]
+    },
+    {
+      "name": "Receive SMS Online",
+      "url": "https://receive-sms-online.info/",
+      "description": "Numéros publics pour recevoir des SMS — multi-pays.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "SMS24",
+      "url": "https://sms24.me/",
+      "description": "Numéros virtuels gratuits pour vérifications SMS.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Quackr",
+      "url": "https://quackr.io/",
+      "description": "Numéros virtuels, free + premium pour dédié.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium"
+      ]
+    },
+    {
+      "name": "OnlineSim",
+      "url": "https://onlinesim.io/",
+      "description": "Numéros jetables multi-pays, API disponible.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium",
+        "account"
+      ]
+    },
+    {
+      "name": "Temp Number",
+      "url": "https://temp-number.com/",
+      "description": "SMS reception gratuit, multiples pays.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "TextNow",
+      "url": "https://www.textnow.com/",
+      "description": "Numéro US/CA gratuit dédié avec app dispo.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "account"
+      ]
+    },
+    {
+      "name": "Fake Name Generator",
+      "url": "https://www.fakenamegenerator.com/",
+      "description": "Génère une identité complète (nom, adresse, CC de test, etc.).",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "This Person Does Not Exist",
+      "url": "https://thispersondoesnotexist.com/",
+      "description": "Photo de visage généré par IA, jamais la même.",
+      "category": "burners",
+      "type": "web",
+      "tags": []
+    },
+    {
+      "name": "Generated Photos",
+      "url": "https://generated.photos/",
+      "description": "Base de visages générés par IA, filtres par âge/ethnie/etc.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "freemium",
+        "account"
+      ]
+    },
+    {
+      "name": "Privacy.com",
+      "url": "https://privacy.com/",
+      "description": "Cartes bancaires virtuelles à usage unique (US uniquement).",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "account"
+      ]
+    },
+    {
+      "name": "Revolut Cartes Virtuelles",
+      "url": "https://www.revolut.com/",
+      "description": "Cartes virtuelles jetables dans l'app Revolut.",
+      "category": "burners",
+      "type": "web",
+      "tags": [
+        "account"
+      ]
     }
   ]
 }

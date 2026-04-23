@@ -2,7 +2,7 @@
 
 Site : https://schroder-mao.github.io/mao-Tool/
 
-493 outils, 42 catégories.
+513 outils, 43 catégories.
 
 ## Sommaire
 - [Moteurs de Recherche Généralistes](#moteurs-de-recherche-generalistes) (18)
@@ -47,6 +47,7 @@ Site : https://schroder-mao.github.io/mao-Tool/
 - [Forums & Archives Communautaires](#forums-archives-communautaires) (6)
 - [Conflit & Humanitaire](#conflit-humanitaire) (6)
 - [Propriété Intellectuelle](#propriete-intellectuelle) (5)
+- [Burners & Identités Temporaires](#burners-identites-temporaires) (20)
 
 ## Moteurs de Recherche Généralistes
 
@@ -666,3 +667,26 @@ Site : https://schroder-mao.github.io/mao-Tool/
 - [Google Patents](https://patents.google.com/) — Recherche full-text sur 120M+ brevets, avec traduction automatique.
 - [USPTO TESS](https://www.uspto.gov/trademarks/search) — Recherche officielle des marques déposées aux États-Unis.
 - [WIPO Global Brand DB](https://www3.wipo.int/branddb/en/) — Base mondiale des marques, indications géographiques et dessins.
+
+## Burners & Identités Temporaires
+
+- [10 Minute Mail](https://10minutemail.com/) — Adresse valide 10 minutes, renouvelable.
+- [addy.io](https://addy.io/) — Service d'alias open source (ex-AnonAddy).
+- [Fake Name Generator](https://www.fakenamegenerator.com/) — Génère une identité complète (nom, adresse, CC de test, etc.).
+- [Firefox Relay](https://relay.firefox.com/) — Alias Mozilla qui redirigent vers ton vrai e-mail (5 gratuits).
+- [Generated Photos](https://generated.photos/) — Base de visages générés par IA, filtres par âge/ethnie/etc.
+- [Guerrilla Mail](https://www.guerrillamail.com/) — E-mail jetable avec possibilité d'envoyer aussi (pas juste recevoir).
+- [Maildrop](https://maildrop.cc/) — Inbox publique jetable, choisis ton adresse.
+- [Mailinator](https://www.mailinator.com/) — Inbox publique accessible par n'importe qui avec le nom.
+- [OnlineSim](https://onlinesim.io/) — Numéros jetables multi-pays, API disponible.
+- [Privacy.com](https://privacy.com/) — Cartes bancaires virtuelles à usage unique (US uniquement).
+- [Quackr](https://quackr.io/) — Numéros virtuels, free + premium pour dédié.
+- [Receive SMS Online](https://receive-sms-online.info/) — Numéros publics pour recevoir des SMS — multi-pays.
+- [Revolut Cartes Virtuelles](https://www.revolut.com/) — Cartes virtuelles jetables dans l'app Revolut.
+- [SimpleLogin](https://simplelogin.io/) — Alias e-mail avec réponses anonymes, par ProtonMail.
+- [SMS24](https://sms24.me/) — Numéros virtuels gratuits pour vérifications SMS.
+- [Temp Number](https://temp-number.com/) — SMS reception gratuit, multiples pays.
+- [Temp-Mail](https://temp-mail.org/) — E-mail jetable instantané, pas d'inscription.
+- [TextNow](https://www.textnow.com/) — Numéro US/CA gratuit dédié avec app dispo.
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/) — Photo de visage généré par IA, jamais la même.
+- [YOPmail](https://yopmail.com/) — Inbox permanente par alias, sans inscription.

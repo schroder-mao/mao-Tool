@@ -431,9 +431,10 @@ const faviconObserver = new IntersectionObserver((entries) => {
 }, { rootMargin: "200px" });
 
 async function load() {
+  const bust = "?v=" + Date.now();
   const [tRes, sRes] = await Promise.all([
     fetch("tools.json"),
-    fetch("status.json").catch(() => null),
+    fetch("status.json" + bust).catch(() => null),
   ]);
   if (!tRes.ok) throw new Error("tools.json introuvable");
   state.data = await tRes.json();
